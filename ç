@@ -1,0 +1,400 @@
+---
+title:  'Causalidad'
+subtitle: "¿Qué causa qué y qué evidencia tenemos?"
+author:
+- name: Oscar Abraham Olivetti Alvarez 
+affiliation: "Universidad Nacional Autónoma de México" 
+lang: "es"
+bibliography: "Tesis.bib" 
+csl: "apa.csl"
+---
+
+# Introducción
+
+Los seres humanos utilizamos lenguaje causal todo el tiempo.
+Decimos que fumar causa cáncer, que la causa de muerte fue un paro cardiaco, que el fuego causó el incendio de el inmueble, etc.
+En medicina, por ejemplo, queremos saber cuál es la causa de una cierta enfermedad para buscar un remedio.
+Supongamos, por ejemplo, que un integrante de nuestra familia está terriblemente enfermo.
+El primer día, los síntomas son fiebre, tos seca y dolor corporal.
+Para aliviar el malestar, le damos a nuestro familiar un antipirético, lo cual hace que se sienta mejor.
+El segundo día nosotros caemos enfermos, los síntomas son los mismos, pero además tenemos diarrea.
+Dada esta información ¿podemos afirmar que nuestro familiar fue la causa de nuestra enfermedad?
+
+En el ejemplo anterior, con la información que tenemos, es plausible afirmar que nuestro familiar es la causa de  nuestra enfermedad.
+Dado esto, es razonable que al tomar los mismos medicamentos, nos sentiremos mejor.
+Pero añadir nueva información hace que nos retractemos de esta conclusión.
+Supongamos que el día anterior fuimos a comer tacos, donde la carne era de dudosa procedencia, por lo que ahora parece que la enfermedad no fue causada por nuestro familiar, sino por la carne que ingerimos el día anterior.
+Dada esta nueva información, parece que la causa de nuestra enfermedad tiene un origen diferente e ingerir los mismos medicamentos puede llevarnos a agravar nuestros síntomas.
+Es por ello que buscar cuál es la causa efectiva es de suma importancia.
+
+## Un ejemplo de complejidad causal
+
+El cuento anterior trata de ilustrar la importancia de analizar correctamente las relaciones causales. 
+Si fallamos en dar con la causa de nuestra enfermedad, las consecuencias podrían ser terribles, es por ello el análisis de las causas es de suma importancia.
+Sin embargo, el ejemplo anterior falla en ilustrar la complejidad involucrada en nuestra búsqueda de relaciones causales.
+Para ilustrar dicha complejidad pensemos, por ejemplo, en las diferentes relaciones que hay entre el genotipo y el fenotipo.[^1]
+Con el proyecto del genoma humano, los investigadores lograron secuenciar completamente el ADN de un grupo de seres humanos.
+La secuenciación del ADN consiste en determinar el orden exacto de los *nucleótidos* (adenina, guanina, citocina y tiamina) que constituyen los segmentos del ADN.
+Una secuencia de tres de estos 4 nucleótidos constituye un *codón* que codifica para una proteína.
+Sin embargo, una proteína puede estar determinada por más de un codón, además, hay tres codones que regulan dicha proteína, es decir detienen la producción de dicha proteína.
+
+Estas proteínas son las responsables de muchos de los rasgos que tienen los organismos.
+Un *gen* es una región de ADN que codifica para una proteína particular.
+Sabemos además que la selección natural actúa cuando un grupo dentro de una población de organismos tiene alguno de estos rasgos, de tal manera que les ofrece la oportunidad de sobrevivir más y dejar más descendencia.
+Este rasgo tiene que ser heredable, donde la unidad de herencia es el gen.
+
+Ahora bien, es plausible pensar que una región de ADN, esto es un gen, determina exactamente una proteína y, por tanto, un rasgo específico del organismo.
+Pero la interacción entre diferentes genes hace compolicado que podamos hacer esto. 
+Fenómenos como la *pleiotropia*, la *epístasis* y el *desequilibro de enlace* complican llegar a una conclusión de este tipo.
+
+Estos tres fenómenos nos ayudan a describir las diferentes interacciones que hay en el ADN.
+La pleiotropia es el fenómeno en el que un gen tiene efectos en múltiples características de un organismo.
+Por otro lado, la epístasis es el fenómeno en el que un gen depende de otros genes para expresar una característica.
+Por último, el desequilibrio de enlace es el fenómeno en el que dos genes que están en diferentes locaciones del ADN, se enlazan y aparecen en los gametos con más frecuencia que el azar.
+
+Estas interacciones entre diferentes partes del código genético hacen complicada la tarea de buscar patrones causales.
+Sin embargo, los biólogos han diseñado diferentes maneras de experimentar cuando hay una relación causal entre el genotipo (el conjunto de genes) y el fenotipo (los rasgos que podemos ver en los organismos).
+Como un ejemplo de esto, unos investigadores querían descubrir cómo la luz y la temperatura, por separado, afectan el proceso de floración en plantas del género *Arabidopsis*. 
+
+En el artículo [@ausin2005], los autores desarrollan un modelo experimental para saber cuál es la relación entre la floración del género y cómo afectan la temperatura y la luz.
+Sabemos que la temperatura está fuertemente correlaionada con la luz.
+Regularmente los lugares cálidos tienden a tener más luz del sol, mientras que los lugares fríos tienen menos luz solar.
+Por lo que es de esperarse que tanto aquellas características del organismo relacionadas a la temperatura, también estén relacionadas con la luz.
+
+Los investigadores señalan que se desconocen muchos de los procesos moleculares involucrados en la floración.
+Sin embargo, en el género *Arabidopsis* se han estudiado los aspectos genéticos del fenómeno de la floración.
+Además se descubrió que los genes que regular la floración bajo diferentes temperaturas y longitudes de onda de la luz, son independientes.
+Lo que significa que distintos genes están involucrados: unos ayudan a acelerar la floración en bajas temperaturas, mientras otros aceleran la floración a diferentes longitudes de onda.
+
+Para el experimento se sometió a los especímenes a temperaturas bajas (aunque no al punto de congelamiento) y observaron cómo el proceso de floración se acelera en consecuencia. 
+En el caso de la luz, se observó que los especímenes reaccionan a la luz roja, a la luz roja lejana (longitudes de onda entre 700 y 750 nm.) y a la luz azul. 
+Cuando hay bajos niveles de estas tres, se promueve la floración.
+Así como cuando hay bajas temperaturas.
+
+Sin duda, como seres humanos, tenemos muchas intuiciones acerca de la causalidad, tanto que en principio, no parece interesante preguntarse acerca de su naturaleza
+Sin embargo, espero que estos ejemplos sirvan como motivación para comenzar a preguntarse no sólo sobre la naturaleza de la *causalidad*, sino también acerca de la *justificación* de relaciones causales.
+Este segundo aspecto está relacionado con la explicación científica, que es uno de los temas de estudio de la filosofía de la ciencia.
+
+Para este capítulo el plan es el siguiente.
+Comenzaré repasando lo que algunos filósofos han dicho acerca de la naturaleza de la causalidad, es decir, la *metafísica* de la causalidad.
+Luego señalaré las virtudes y problemas de dichas teorías.
+Como segunda parte, entrarñé en detalles sobre la explicación científica.
+Por lo regular asumimos que la investigación científica está dedicada a dar explicaciones causales de los fenómenos.
+Este debate está enmarcado en aspectos *epistémicos* de las relaciones causales, en particular, en cómo justificamos que existe una relación causale entre fenómenos.
+
+Por último, terminaré con algunas conclusiones sobre este debate y algunas áreas de investigación actual, esto es, debates acerca de la metafísica y epistemología de la causalidad.
+
+# Una breve historia
+
+En esta sección presentaré una brevísima historia de lo qeu algunos filósofos clásicos han dicho acerca de la causalidad.
+Para fines expositivos, hablaré sólo de las distinciones hechas por Aristóteles y de los argumentos escepticos de Hume.
+
+
+## Aristóteles
+
+La causalidad ha sido estudiada por los filósofos al menos desde Aristóteles.
+Comenzando por Aristóteles, el estagirita concibe a las causas como una respuesta a una pregunta, en particular señala que los físicos deben estar al tanto de las causas.
+Aristóteles dice "Es evidente que hay causas y que son tantas como hemos indicado, pues tantos son los modos en que podemos entender el 'por qué' de las entes."[^2] [-@aristoteles2008{p. 158}].
+
+¿Cuáles son las causas que hemos indicado? En la física [@aristoteles2008{pp. 140-146}, Especialmente], distingue 4 maneras en las que se dice que algo es una "causa".
+La primera de ellas es que la causa es la materia de lo que algo está hecho.
+Decimos que la causa de la estatua es el bronce, de la casa los ladrillos, etc.
+La segunda forma que distingue Aristóteles es que la causa es la forma del objeto, es decir, lo que hace que un objeto sea lo que es y no otra.
+El hecho de que la lámpara sea tal y no un pedestal o perchero.
+En tercer lugar, decimos que la causa es aquello que produce el movimiento o el reposo.
+Por ejemplo, que la pelota se movión por la patada y se detuvo por chocar con la portería.
+Por último decimos que es causa el fin (o el bien) para lo cuál está diseñado (en el caso de los instrumentos) o el find e una actividad.
+Decimos que la salud se debe al ejercicio: la finalidad del ejericio es la buena salud.
+
+Estas cuatro maneras, caracterizadas por Aristóteles, en las que decimos que algo causa algo, interactúan de diferentes formas.
+Supongamos que queremos explicar por qué hay una estatua en nuestra comunidad.
+Una explicación es que fue puesta por alguien en ese lugar, después de que el artesano la diseñó.
+También podemos echar mano del hecho de que está hecha de bronce y el bronce es bastante duradero y por ello no ha erosionado.
+También podemos apelar al hecho de que es la estatua de un fundador, a diferencia de cualquier persona de a  pie; lo que hace que la estatua esté ahí es su forma.
+Por último podemos apelar a la función de la estatua. 
+Señalar, por ejemplo que la persona representada era muy querida por la comunidad y esto ayuda a la comunidad a prosperar.
+Cabe aclarar que Aristóteles no dice que las 4 causas deben estar presentes para ofrecer una explicación, sino que, alo más, son 4 las formas en que algo causa su efecto.
+
+De las 4 formas de "causa" que distingue Aristóteles, la que produce o impide el movimiento es la forma estándar en la que comúnmente decimos que algo causa algo.[^3]
+Esto parece ser lo que Hume tiene en mente cuando argumenta que nuestro entendimiento de la relación causa-efecto: que los hechos están conectados de alguna manera.
+Esto no va a ser una reconstrucción cronológica completa, sino una brevísima hiistoria, por lo que pasaré ahora a los argumentos de Hume.
+
+## Hume
+
+En la sección anterior ofrecí una presentación de las 4 causas aristótelicas.
+La forma más estándar de usar "causa" es aquella en la que hay una conexión entre dos entes.
+Hay una conexión entre el golpe de una piedra y el vidrio rompiéndose, así como una conexión entre que un carro no encienda y la falta de gasolina.
+Como personas sensatas diríamos que hay una relación causal entre ambos eventos: la piedra golpeando y el vidrio rompiéndose, pero ¿en qué consiste dicha conexión?
+
+Las cuatro causas aristotélicas son caracterizadas como formas en las que podemos ofrecer una explicación, justificar por qué el vidrio está roto.
+Por su parte, Hume presenta un desafío: esta misma relación de conexión no está justificada.
+
+Para llegar a esta conclusión, Hume señala que todo el conocimiento humanos proviene de dos fuentes: *relaciones de ideas* y *cuestiones de hecho*.
+Las relaciones de ideas incñuyen aquellas investigaciones abstractas como las de la geometría: la verdad de las afirmaciones de la geometría pueden descubrirse sólo pensando, sin necesidad de recurrir a nuestras impresiones sensoriales. 
+Las cuestiones de hecho, por su parte, surgen a partir de nuestra interacción con el mundo.
+
+Nuestro conocimiento que emana de las relaciones de ideas está demostrado: es tan seguro que "las verdades que Euclides ha demostrado serían tan acertadas y auto-evidentes incluso si nunca hubiera un círculo o triánguilo en la naturaleza."[^4] [@hume, p. 11]
+En contraste, el conocimiento que surge de las cuestiones de hecho, es más frágil.
+No tenemos bases para afirmar que es verdadero, porque podemos pensar y concebir lo contratrio en cualquier cuestión de hecho.
+
+Podemos pensar, por ejemplo, que hemos detectado una cierta regularidad: que el metal se expande cuando se calienta, pero es posible concebir un metal que no se expanda al calentarse.
+Cualquier forma de concebir el mundo de manera tal que no implique una contradicción, no es conocimiento demostrativo.
+
+Sin embargo, esto no significa que la investigación empírica es fútil, sino que la evidencia nunca es suficiente para probar (demostrar) nuestro conocimiento de cuestiones de hecho, dependen de la evidencia y la comprobación.
+Pero como seres humanos, tenemos cierta expectativa de los eventos, esperamos que haya una relación general entre la causa y el efecto.
+Es la única forma en la que somos capaces de extrapolar eventos del pasado y tener expectativa de eeventos futuros.
+La manera en que razonamos en cuestiones de hehco depende de la relación de causa y efecto, a su vez, dicha conexión depende --nos dice Hume-- de de la asociación constante de objetos; uno siguiendo a otro.
+
+Entonces, dicha conexión, es a su vez una cuestión de hecho: depende de nuestra experiencia.
+Pensemos en los efectos de cualquier evento $x$.
+Sabemos que los efectos son diferentes a las causas, si nos preguntaran cuáles serán los efectos de $x$ sin conslutar nuestra experiencia pasada.
+En este caso, sólo podemos responder arbitrariamente, por mas posibilidades que imaginemos, hay una infinidad de ellas que podrían ser el caso: no hay forma de que dicha relación no dependa de nuestra experiencia.
+Si esto es verdad, entonces no hay manera de probar (en sentido estricto), que dicha relación es completamente infalible.
+
+Para finalizar esta sección, me gustarñia remarcar un par de cuestiones.
+Aristóteles nos presenta a la causalidad como una manera en que ofrecemos explicaciones.
+Digamos que es una parte fundamental de nuestra manera de razonar y explicar diferentes fenómenos, enmarcando nuestra cuestión original en un marco epistémico.
+Por su parte, Hume nos presenta con un problema sobre la misma justificación de la conexión entre causa y efecto.
+Digamos que Hume se dedica a analizar la naturaleza de dicha conexión.
+
+En el trabajo citado, Hume no dice que esta conexión sea injustificable, sino que no podemos ofrecer una demostración (un argumento epistémico).
+Pero nuestro razonamiento de cuestiones de hecho depende de la relación de causa y efecto.
+Luego, Hume se dedica a decirnos en qué consiste dicha relación.
+No está explícitamente en la presentación anterior, pero Hume señala que lo único a lo que podemos apelar en este caso es a nuestra costumbre.
+
+Vemos entes que detonan otras entes y, mientras más entes de un tipo pasando después de entes de otro tipo, nuestro razonamiento es más seguro: aunque nunca demostrado.
+Hume responde a su propio desafío diciéndonos que sólo la conjunción constante y la costumbre son los constituyentes de las relaciones causales.
+
+Esta respuesta no está libre de problemas.
+Supongamos que hago el siguiente experimento: aplaudo durante 4 días seguidos justo antes del anochecer.
+¿Es suficiente mi costumbre y la conjunción constante de mi aplaudir y el anochecer, para decir que están causalmente relacionados?
+La respuesta obvia es no.
+Los accidentes ocurren constantemente y no podemos concluir que hay una relación causal en este caso. 
+
+Además, Hume también señala que la relación causal tiene una dirección: las causas preceden a los efectos.
+Algunos filósofos han argumentado que no tiene sentido decir que la causalidad tiene dicha popiedad.
+Bertrand Russell, por ejemplo, señala que las disciplinas científicas (como la física), no se basan en causalidad [@russell1912].[^5]
+
+La investigación científica no está dedicada a descripciones de objetos particulares, sino que pretende generalizar.
+Pero la causalidad no depende de que a la misma causa, siempre siga el mismo efecto.
+Esto nos lleva al análisis de la naturaleza de la causalidad, que es de lo qeu se ocupa la siguiente sección.
+
+
+# La naturaleza de la causalidad
+
+En la sección anterior expuse el analisis de Aristóteles y el desafío de Hume.
+Vimos que la caracterización de la causalidad que nos ofrece Hume,vimos que hya un problema con la pura costumbre.
+Esto nos dice que, a primera vista, aún no tenemos una buena caracterización de la causalidad.
+Problemas relacionados han llevado a muchos filósofos a analizar la naturaleza de la causalidad.
+En qué consiste la relación y cuáles son los **relata** y la **aridad** de dicha relación.
+
+Este debate está además atravesado por la distinción **token**/**type**[^8].
+Para dar un ejemplo: en 1980 comenzó el proyecto STAR en Tennessee, los legisladores buscaban reducir el número de estudiantes por salón [@llaudet2023].
+La apuesta era que reducir el número de estudiantes en un salón mejoraría el desempeño  de los estudiantes.
+El proyecto resultó, en cierta medida, exitoso.
+
+Ahora, pensemos en otro ejemplo.
+En economía hay una famosa "ley"[^6], la "ley de la demanda".
+En términos generales, esta ley nos dice que, si mantenemos fijas todas las variables y aumentamos el precio de un bien, entonces la demanda del bien bajará.
+
+El primer caso es un **token**.
+En ese experimento particular, con esa población particular, observamos el resultado.
+El segundo caso es un **type**.
+El aumento en el precio de un bien, baja la demanda del bien.
+
+## _Relata_
+
+Debido a que podemos hacer una distinción entre casos particulares (token)
+y casos generales (types), podemos tener diferentes combinaciones de _relata_.
+De manera prominente, se ha debatido si los _relata_ de una relación causal
+son: **eventos**, **hechos** o **variables**.
+Comenzaré esta sección discutiendo una teoría de la causalidad que toma eventos como _relata_ ¿cómo interactúan causalmente los eventos?
+
+### Eventos
+
+De manera general, caracterizamos a los eventos como algo que pasa: entidades que suceden en una localización espacial y duran un periodo de tiempo.
+Ahora, supongamos que salgo de mi casa y tropiezo, ¿son dos eventos "mi salir de casa" y "mi tropezar"?, o ¿sólo hay un evento, esto es, "salir de casa y tropezar"?
+
+Supongamos que son dos eventos distintos.
+Si son dos eventos distintos, entonces podemos decir que el momento justo cuando salgo de la puerta determina el primer evento; y que justo antes de pegar mi pie en la zanja comienza el segundo evento.
+Para tratar de separar estos eventos, digamos que hay un periodo de dos segundos entre salir de mi casa y tropezar.
+Parece que estos dos segundos son cruciales para distinguir dos eventos.
+Pero si comenzamos a acortar estos dos segundos hasta que haya 0 segundos entre ambos, no queda claro que haya dos eventos sucediendo: sólo uno.
+Cabe señalar que esto último depende de que algunos filósofos han señalado que no es posible que dos eventos ocurran en el mismo lugar y al mismo tiempo[^12].
+
+Ahora bien, no hay un consenso exacto sobre el debate de individuación de los eventos, pero espero que el ejemplo anterior ayude a detonar cierrtas intuiciones para entender la siguiente discusión.
+Aunque necesitamos criterios de individuación de eventos, Kim [-@kim1973]
+nos presenta una teoría humeana[^13] de la causalidad que relaciona eventos, al mismo tiempo que ofrece criterios de individuación para eventos.
+
+Kim comienza discutiendo los componentes de la causalidad que ofrece Hume.
+La motivación para desarrollar una teoría de los eventos es que, los componentes de la caracterización de Hume relacionan diferentes categorías de entidades.
+
+1. La conjunción constante parece relacionar eventos generales, _i. e._, eventos-_type_.
+Por ejemplo, el disparo de un arma apuntando a alguien, mata a ese alguien.
+1. La prioridad temporal parece relacionar eventos individuales.
+El disparo, cuando Óscar presiona el gatillo de la pistola apuntando a Roberto, mata a roberto.
+2. La contigüidad espacio-temporal relaciona objetos. 
+Si distinguimos entre contigüidad temporal, claramente puede relacionar eventos; por otro lado, la contigüidad espacial relaciona objetos.
+3. La conexión necesaria relaciona oraciones, no es claro cómo lidiar con conexiones necesarias _de re_, pero es sensato hablar de necesidad _de dicto_.[^7]
+
+Es decir que las condiciones de la teoría humeana[^14] " ... hacen que la relación causal sea ontológicamente incoherente." [@kim1973, p. 218] por lo que es necesario ofrecer una ontología de la causalidad que no tenga estos problemas.
+
+Aquí me gustaría hacer un breve comentario, las distinciones que hace Kim de estas relaciones, son útiles para capturar la diferencia entre eventos-_token_ y eventos-_type_.
+Los eventos individuales son entidades concretas que duran un tiempo determinado.
+Consideremos el siguiente ejemplo: el evento en el que Miguel tira una taza y esto causa que la taza se rompa.
+Mientras que los eventos-_type_ (eventos genéricos en términos de Kim), son regularidades que relacionan las propiedades involucradas entre dos eventos-_token_.
+Digamos que hay una ley que relaciona $F$ ="ser una taza golpeada" con $G$ = "ser una taza rota".
+Donde esta ley relaciona ambas propiedades en conjunción constante y que son instanciadas por eventos-_token_.
+
+Siguiendo con la discusión de Kim, para ofrecer una teoría causal necesitamos dos ingredientes: primero una caracterización de eventos particulares y luego esta teoría debe decirnos cómo las propiedades involucradas en los eventos-_token_ están causalmente relacionadas.
+Comenzando con la individuación de eventos, nuestro ejemplo anterior se puede analizar en los siguientes términos: (i) "la taza es golpeada por Miguel en $t$" y (ii)"la taza se rompe en $\Delta t$".
+Para dar una estructura a los eventos, para nuestros eventos anteriores, usamos la siguiente formalización: (i) = $[(x_{n}, t), P]$ y (ii) = $[(x_{n}, t), P']$.
+
+En este ejemplo, la taza tiene dos propiedades en diferentes periodos de tiempo: "ser golpeada" y "estar rota". 
+Durante un periodo de tiempo, la taza está siendo golpeada y durante un periodo de tiempo, la taza se está rompiendo[^9].
+
+A partir de esta caracterización de los eventos[^10], Kim desarrolla una teoría humeana que no tenga el problema que motiva su proyecto.[^11]
+Intuitivamente cualquier evento-_token_, es una instancia de un evento-_type_.
+Entonces necesitamos una forma de relacionar eventos-_type_, tal que podamos decir que hay una conjunción constante y que esto sea un análisis completo de la causalidad.
+
+Kim evalúa diferentes opciones que pueden servir para definir la relación causal.
+Para no entrar en más detalles, Kim se decanta por una relación de contigüidad espaciotemporal.
+Si la localización de un evento es contigua con otro evento y hay un evento complejo que relaciona  los objetos constitutivos de los eventos anteriores, entonces eso hace que uno de los objetos tenga una nueva propiedad.
+Esta formulación es bastante engorrosa, por lo que hay que desempaca lo que hay en el enunciado anterior.
+
+La definición completa es la siguiente
+
+> $[(a, b, T), P]$ es una causa de $[(b, T'), Q]$ siempre que: 
+> (i) $[(a, b, T)]$ y $[(b, T'), Q]$ existan y, 
+> (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ existe $\implies$ $[(y, t + \Deltat), Q] existe$, 
+> donde $\Delta t = T' - T$. [^15] [@kim1973, p. 234]
+
+Esto es una definición **reduccionista** de la causalidad.
+Reduccionista porque no usa lenguaje causal en la parte definitoria.
+La definición anterior está atravesada por la relación de contigüidad, pero para omitir detalles, podemos pasar a la última dfinición que ofrece Kim.
+
+La parte de "causa" en la anterior definición es el evento complejo que nos dice que hay una relación entre $a$ y $b$ en un tiempo $T$ específico.
+La segunda parte, el "efecto", es el evento en el que $b$ es $Q$ en $T'$.
+
+Por ejemplo, supongamos que la causa soy yo dando una patada a mi librero en $T$ y sucede, entonces, que el librero se cae en $T'$.
+El ejemplo anterior satisface (i).
+Para satisfacer (ii) necesitamos que haya un universal que diga que las patadas y los libreros cayéndose en un periodo de tiempo después de la patada al librero.
+
+(ii) parece ser una gran restricción para las relaciones causales, sin embargo, esta condición es muy fácil de satisfacer.
+Yo tengo una relación con mi librero: es mío y, supongamos que satisfacemos el siguiente universal: todos los libreros que tienen dueño se caen.
+Entonces mi ser dueño del librero **causa** que se caiga.
+
+Lo anterior es un contraejemplo, que es altamente debatible.
+En primer lugar parece violar la condición de contigüidad, pero no es descabellado pensar que puede haber libreros que se caigan al lado de sus dueños (por ejemplo, durante un terremoto).
+Esto hace que la definición sea incorrecta.
+En segundo lugar, la definición trivializa los eventos únicos.
+
+Sabemos que hubo un punto del tiempo evolutivo en el que la vida dio un paso del agua a la tierra.
+Esto fue un evento único en la historia de la vida evolutiva de muchas especies.
+Para no complicar la parte de "evento único",[^16] supongamos que un grupo, dentro de alguna población realizó este paso.
+
+Dado que previo a este fenómenos, toda la vida del planeta residía en el agua, todos los organismos guardan una relación con ella "viven ahí".
+Además ambos objetos son contiguos espacial y temporalmente. 
+El efecto es el paso de la vida a la tierra en un periodo $\Delta t$.
+Entonces, que los organismos viva en el agua, causa la vida en la tierra.
+
+Esta relación causal claramente es incorrecta.
+La causa de que haya vida en la tierra depende de factores muy diferentes a su vida en el agua.
+Y aún cuando parezca necesario que tiene que haber vida en el el agua, para que haya vida en la tierra, esto no es efecto de lo primero.
+Considérese además que lo mismo pudo pasar si la vida hubiera iniciado en la tierra y hubiese pasado al agua.
+Por tanto, la vida en el agua tampoco es una condición necesaria de la vida en la tierra.
+
+A partir de esta discusión, podemos extraer un par de conclusiones.
+Primero, que aún no tenemos una buena caracterizaciuón reduccionista de la causalidad.
+Segundo, que la causalidad juega un papel importante en nuestras explicaciones científica y que la naturaleza de la causalidad es un tema importante para cuestiones de explicación.
+Por último, que asumiendo la subsunción de eventos bajo un patrón (los universales de la condición (ii)) hemos perdido la relación entre objetos particulares.
+
+Este último es un problema para muchas de nuestras teorías de la causalidad y no queda claro cómo podría resolverse, o si todas nuestras teorías de la causalidad, inevitablemente estñan condenadas a que este sea un problema.
+
+Sea como sea, pensemos en una teoría de la causalidad que no relacione eventos.
+Quizás los relata son **hechos** y no **eventos**.
+Esto es tema de la siguiente sección.
+
+### Hechos
+
+Algunos filósofos no están de acuerdo en que los _relata_ de las
+relaciones causales sean los eventos. 
+Una motivación clásica es que algunas relaciones causales dependen de
+ausencias: por ejemplo, "que José no haya regado su orquídea, causa que la orquídea se seque".
+
+En el ejemplo anterior no hay un evento como "José no-regando su planta".
+Simplemente no lo hizo, en ese caso no hay un evento.
+Esta motivación ha llevado a algunos filósofos a optar por otros _relata_.
+Entre los _relata_ más discutidos están los "hechos".
+
+Al igual que con la metafísica de los eventos, los "hechos" tienen sus propios problemas.
+No puedo incluir todos los debates, pero hay al menos una distinción importante acerca de la naturaleza de los hechos.
+Los hechos están relacionados con las proposiciones. 
+
+
+
+
+
+### Notas para agregar ###
+
+1. Decir por qué las estrategias son reduccionistas. "Estas estrategias son reduccionistas porque tratan de analizar la causalidad en términos que no involucren términos causales, mientras que la teoría intervencionista toma causalidad como primitiva"
+2. Terminar la sección "eventos", porque parece que queda al aire.
+
+Dada la generalidad de esta relación, podemos decir que los eventos-_type_ "presionar el botón" y "prender el televisor" están en conjunción constante cuando presiono el botón de mi televisor y se enciende un televisor en Taiwán.
+Algo que claramente queremos evitar.
+Podríamos restringir este tipo de eventos, diciendo que presionar el botón de el televisor hace que ese televisor se encienda.
+Paro nuestras relaciones causales, muchas veces, relacionan dos objetos, por lo que esto hace que la relación sea demasiado restringida.
+
+Algunos
+
+Ahora bien, algunos filósofos han señalado que la relación causal se da entre objetos particulares
+
+Algunos filósofos han defendido que la causalidad relaciona **eventos**.
+
+Ha sido discutido si los relata (aquello que puede estar causalmente relacionado) son objetos particulares, eventos, hechos o variables.
+En la discusión de Hume, nuestro autor asume (como seguramente muchos de nosotros) que la causalidad es una relación y que los _relata_ son tanto objetos como tipos o propiedades.
+Al menos esto parece sugerir cuando nos dice que la única manera que tenemos de extrapolar nuestro conocimiento --esto es, generalizar--, es a partir de observar objetos concretos.
+Una vez que hemos visto varias instancias de un objeto relacionado con otro, podemos decir que objetos del tipo $B$, están causalmente relacionados con objetos del tipo $A$ (donde $B$ es el efecto y $A$ su causa).
+
+Dadas las caracterizaciones anteriores y los probl
+
+The divergence between causal reductionism  and causal pragmatism lies in the fact that the former asserts that there are no genuine causal connections  in nature, whereas the latter refuses to make such a strong metaphysical claim.
+
+
+# References
+
+#notapie#
+
+[^1]:Esta exposición está basada en [@michael2014] y [@catherine2014]
+
+[^2]: Es interesante la ccaracterización de Aristóteles en términos de preguntas "¿por qué?" Algunos filósofos han caracterizado a la explicación científica como la respuesta a preguntas "¿por qué?. Por ejemplo, Hempel en su famoso artículo "Aspects of scientific Explanation" dice "A scientific explanation may be regarded as an answer to a why-quetion [...]" [-@hempel1965, p. 334]
+
+[^3]: Este fraseo es intencional, uso el "algo" como una forma indeterminada para permanecer neutral con respecto al problema de cuáles son los *relata* (valores) que puede tomar la relación causal, ya sean tipos, individuos, eventos, etc. Esto para fines expositivos. 
+
+[^4]: En el original "The truths that Euclid demonstrated would still be certain and self-evident even if there never were a circle or triangle in nature." Todas las traducciones son mías. 
+
+[^5]: El caso de Russell es interesante. Su argukento descansa en que la investigación científica no busca regularidades, tal que, cualquier ley es infalible. Si la ley de la causalidad es "misma causa, mismo efecto", entonces la investigación científica no depende de dicha ley. Si además, esta ley se sotiene, es sólo en casos en los que calculamos todas las variables  en un tiempo $t$, para saber qué pasa en un tiempo $\Delta t$. Pero en esos casos la "ley de la causalidad" es inútil para la investigación científica porque no es posible generalizar: todos serían eventos únicos. 
+
+[^6]: Digamos que es una oración *legaliforme*. Algunos filósofos defienden que una oración legaliforme es una ley de la naturaleza sólo si aparece como axioma en nuestras mejores teorías de una ciencia completamente desarrollada. Llamemos a esta teoría nuestro sistema. Este axioma sistematizaría nuestro conocimiento de manera tal que hay un balance entre la simplicidad de nuestro sistema y qué tan informativo es [@cohen2009]. Otros filósofos, como Nancy Cartwright, niegan que haya tales entes como leyes de la naturaleza (al menos si las entendemos como regularidades sin excepciones), sino que, aquello que llamamos leyes son regularidades sin excpeción sólo en escenarios altamente idealizados, véase [-@cartwright1983] y [-@cartwright2022]. Dado el estado actual de nuestras teorías económicas, esta "ley", de hecho tiene excepciones. Como el análisis de las leyes no es el tema de este capítulo, evitaré dentro de lo posible usar el término.
+
+[^7]: La distinción _de re_/_de dicto_ es importante para hablar de enunciados modales. Entre las modalidades tenemos: modalidad alética, modalidad epistémica y modalidad deóntica. La primera lidia con oraciones de posibilidad (◇) y necesidad (□); la modalidad epistémica lidia con enunciados sobre creencias, conocimiento y justificación; la modalidad deóntica lidia con oraciones sobre obligación y permisión. De manera clásica [@quine1956] hacemos la distinción dependiendo del alcance del cuantificador. Si decimos "Jaime cree que hay un espía", entendemos la oración de al menos dos maneras: o bien "Jaime cree que hay al menos un espía", o bien "Jaime cree que hay alguien que es un espía". En el primer caso, la creencia de Jaime es verdadera en caso de que Jaime crea que hay espías; la segunda oración es verdadera en caso de que haya un sujeto particular, tal que, Jaime cree que ese sujeto es un espía. En el segundo caso, Jaime es una fuente de información valiosa para la policía, mientras que en el primer caso, no.
+
+[^8]: Un ejemplo que captura esta distinción es pensa en la palabra "banana". Dicha palabra tiene 6 _tokens_: "B", "A", "N", "A", "N" y "A"; la misma palabra tiene 3 _types_: "B", "A" y "N".
+
+[^9]: Esto también lo podemos generalizar para relaciones, no sólo para propiedades, véase Kim esp 223-226. 
+
+[^10]: Kim ofrece también condiciones de existencia y condiciones de identidad para eventos.
+
+[^11]: Ciertamente individuar eventos no es tarea fácil. Pensemos en casos históricos ¿exactamente dónde comienza y termina el _poner ejemplo_?
+
+[^12]: Al menos esto sugiere Quine en [-@quine1985] cuando dice que podemos individuar los eventos como constructos de objetos físicos y que los objetos físico están individuados por su extensión espacial. 
+
+[^13]: Se llama humeanas a las teorías de la "regularidad causal". Estas teorías, en su núcleo, afirman que las relaciones causales capturan regularidades: el efecto está regularmente asociado con su causa. Por lo regular, estos teóricos señalan que dichas regularidades son capturadas por las "leyes de la naturaleza". 
+
+[^14]: En el original "renderingt he causal relation ontologically incoherent."
+
+[^15]: En el original $[(a, b, T), P]$ is a cause of $[(b, T'), Q]$ provided: (i) $[(a, b, T)]$ and $[(b, T'), Q]$ exist, and (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ exists $\implies$ $[(y, t + \Delta t), Q] exists) [_sic._]$, where $\Delta t = T' - T$. [@kim1973, p. 234]. El último paréntesis después de "exists" está en el texto original. Aquí asumo que es una errata. 
+
+
+
+[^16]: Pienso en el debate en filosofía de la biología sobre si lo que evoluciona son los organismos y las especies. Como estamos altamente influenciados por la genética de poblaciones, los biólogos asumen --generalmente--, que lo que evoluciona son las poblaciones. Ofrezco un ejemplo de poblaciones para no comprometerme con alguna posición en el debate. Echémosle la culpa a los biólogos. 
