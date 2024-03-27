@@ -89,7 +89,6 @@ Por último, terminaré con algunas conclusiones sobre este debate y algunas ár
 En esta sección presentaré una brevísima historia de lo qeu algunos filósofos clásicos han dicho acerca de la causalidad.
 Para fines expositivos, hablaré sólo de las distinciones hechas por Aristóteles y de los argumentos escepticos de Hume.
 
-
 ## Aristóteles
 
 La causalidad ha sido estudiada por los filósofos al menos desde Aristóteles.
@@ -429,17 +428,29 @@ Hay muchas formas diferentes de decir que algo es adecuado, no sólo tenemos "es
 A primera vista parece que esto echa por tierra lo que dije relativo a los hechos y a las proposiciones.
 Si nunca son perfectamente acertadas las oraciones que usamos para hablar de las "cosas" que hay fuera de nuestra cabeza, entonces ¿Para que necesitamos a las proposiciones para individuar hechos?
 Esto se parece al argumento de Frege: la verdad no puede ser correspondencia porque la correspondencia admite grados, la verdad no.
-Algo sólo puede representar en cierto grado otra cosa, y sólo podemos representar a menos que los objetos que están relacionados (un objeto $A$ representando a un objeto $B$) sean cualitativamente idénticos, pero "la verdad no admite grados".
+Algo sólo puede representar en cierto grado otra cosa, y sólo podemos representar a menos que los objetos que están relacionados (un objeto $A$ representando a un objeto $B$) sean cualitativamente idénticos, pero "la verdad no admite grados" [Frege2016, pp. 323-327].
 
-Me parece que estamos perdiendo algo en esta discusión. 
-Estoy de acuerdo tanto con Wittgenstein como con Austin, ¿cómo arreglamos la tensión?
-Que haya hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que son  estos hechos hacen verdaderas a nuestras oraciones es algo que no puedo discutir, a menos que querramos involucrarnos en la semántica de la verdad, lo cuál no es nuestro tema actual.
-Pero la teoría correspondentista es muy intuitiva, especialmente la parte de que lo que sea que haga a nuestras oraciones verdaderas no es algo que dependa de nosotros.
+Frege también señala que aquello de lo que se presenta la cuestión sobre la verdad son los pensamientos.
+Me parece que esta aclaración es fundamental para esclarecer mi cuestión actual: la tensión entre la verdad[^21] de las proposiciones y la falla representacional de nuestras oraciones.
+Estoy de acuerdo tanto con Wittgenstein como con Austinq, concuerdo con que hay hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que son estos hechos hacen verdaderas a las proposiciones en el sentido de Wittgenstein.
 
-Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
-Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
- gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
-Es costoso investigar, justificar y luego señalar que una oración es correcta.
+Como he señalado en esta sección, el contenido de las oraciones son proposiciones.
+Las proposiciones nos permiten explicar una plétora de fenómenos lingüísticos.
+Esto no es incompatible con nuestra falla expresiva humana, nuestras oraciones no siempre son perfectamente adecuadas como medios representacionales.
+Somos organismos con limitaciones cognitivas como para afirmar que nuestras representaciones siempre van a ser perfectamente acertadas, ¡Pero no tienen por qué serlo!
+Tenemos muchas maneras, como nos dice Austin, para decir qué tan adecuada es una representación y dichas representaciones van a perder ciertos detalles de los hechos, de manera que nos alejan del objetivo a representar.
+PEro esto es algo con lo que debemos vivir como seres humanos.
+
+La teoría correspondentista es altamente intuitiva, especialmente porque lo que sea que haga a nuestras oraciones verdaderas (o más o menos acertadas) no es algo que dependa de nosotros.
+Pero hay ciertas cuestiones epistémicas relacionadas a qué tan bien o mal somos capaces de describir los hechos con nuestras oraciones.
+Dejemos que la teoría correspondentista se ocupe de la verdad de proposiciones, pero es una cuestión a parte cómo vamos a ser capaces de describir a los hechos
+Si además aceptamos que hay hechos causales, nuestra manera de describirlos será limitada.
+
+Es costoso investigar, justificar y luego señalar que una oración es acertada y la cuestión de la representación de los hechos, más que una cuestión semántica, es una cuestión epistémica: estrechamente vinculada a cómo investigamos y justificamos hipótesis.
+Una teoría de la causalidad que admite __variables__ como _relata_ ilustra muy bien esta dificultad.
+Queremos oraciones verdaderas, porque queremos conocimiento, aunque muchas veces fallamos en asequir los hechos: necesitamos una manera sustanciosa para justificar cómo exactamente una oración corresponde con los hechos y para ello hay que adentrarnos en terreno epistémico
+
+### Variables
 
 Digamos que queremos saber si una hipótesis es verdadera.
 Asumamos que 
@@ -449,7 +460,6 @@ Asumamos que
 I think, conversely. It is not our business here to discuss  probability: but is worth observing that the phrases "It is true that" and  "It is probable that" are in the same line of business,26 and in so far  incompatibles.   
 Entre estos diferentes razonamientos, podemos incluir las variables sobre las que razonamos, dando lugar al tema del siguiente apartado.
 
-### Variables
 
 Las variables pueden tomar diferentes información acotada a dominios.
 
@@ -531,6 +541,16 @@ No puedo incluir todos los debates, pero hay al menos una distinción importante
 
 ## Notas para agregar
 
+Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
+Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
+ gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
+
+Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
+Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
+ gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
+
+no puedo discutir, a menos que querramos involucrarnos en la semántica de la verdad, lo cuál no es nuestro tema actual
+
 1. Decir por qué las estrategias son reduccionistas. "Estas estrategias son reduccionistas porque tratan de analizar la causalidad en términos que no involucren términos causales, mientras que la teoría intervencionista toma causalidad como primitiva"
 2. Terminar la sección "eventos", porque parece que queda al aire.
 
@@ -579,5 +599,6 @@ proiposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
 
 [^16]: En el original "We say, for example, that  a certain statement is exaggerated or vague or bald, a description  somewhat rough or misleading or not very good, an account rather  general or too concise." 
 
+[^21]: No puedo discutir a detalle las diferentes teorías de la verdad, pero refiero al lector a 
 
 Esto es para hacer un commit
