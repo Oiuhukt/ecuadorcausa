@@ -563,3 +563,6 @@ proiposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
 [^15]: Austin en este artículo está ofreciendo argumentos en contra de la existencia de proposiciones, pero creo que podemos usar uno de los argumentos contra las proposiciones para establecer un punto que quiero discutir en la sección "Variables".
 
 [^16]: En el original "We say, for example, that  a certain statement is exaggerated or vague or bald, a description  somewhat rough or misleading or not very good, an account rather  general or too concise." 
+
+
+Esto es para hacer un commit
