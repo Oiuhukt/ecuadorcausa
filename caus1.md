@@ -374,10 +374,16 @@ Uno puede exclamar algo como "¡AMLO no es mi presidente!", pero esto sugiere ci
 Es decir que hay una fuerte intuición, generalizada, de que nuestros estados epistémicos no afectan lo que es un hecho, por ejemplo, nuestras creencias.
 
 Partiré del supuesto anterior --que los hechos son independientes de la mente humana-- y ofreceré algunas razones para individuar los hechos de acuerdo a las _proposiciones_ que hacen verdaderas.
+Además, quiero introducir otro supuesto: el mundo es complejo y evaluar los hechos cuesta trabajo.
+Esto significa que difícilemmte somos capaces de ofrecer una caraterización de grano fino de los hechos.
+Pero esto no quiere decir que debamos echar por tierra el tema de la individuación de los hechos.
+Diré más sobre esto al final de esta sección.
 
-Una motivación para tomar este criterio en serio es que nos ofrece un claro criterio de individuación, además, me parece que estamos de acuerdo con que los "hechos" causales no son afectados por nuestros estados epistémicos.
-La proposición "el calentamiento global se debe a la intervención humana en el ambiente".
+Una motivación para tomar este criterio --individuar a partir de las oraciones que hacen verdaderas--, es que nos ofrece un claro criterio de individuación.
+Además, podemos estar de acuerdo con que los "hechos" causales no son afectados por nuestros estados epistémicos.
+Por ejemplo, la proposición "el calentamiento global se debe a la intervención humana en el ambiente".
 El verbo "_se debe a_" en la oración anterior es un término causal: la intervención humana _causa_ el calentamiento global y esto es verdad independientemente de lo que algunos creen.
+Con estas motivaciones en mano, veamos cómo individuar hechos.
 
 #### II
 
@@ -417,13 +423,22 @@ El argumento en el que estoy pensando aparece a partir de la subsección 5.
 Austin nos dice que una representación cualquiera no puede ser "verdadera", sino acertada.
 Además que los símbolos lingüísticos no difieren de otros símbolos, _e. g._ los de un mapa y que hay una plétora de maneras distintas de hablar acerca de la relación entre nuestras palabras y el mundo, "Decimos, por ejemplo, que una afirmación es exagerada,  vaga o trivial, que una descripción es muy general, cruda o engañosa, una explicación muy general o muy detallada" [^16](p. 37).
 
-Si todo esto es verdad, entonces parece claro que difícilmente podemos hablar de la "verdad" a secas de una oración cualquiera.
+Si estamos de acuerdo con lo que señala Austin, entonces parece claro que difícilmente podemos hablar de la "verdad" a secas de una oración cualquiera.
 Hay muchas formas diferentes de decir que algo es adecuado, no sólo tenemos "es verdadero" a la mano.
 
-A primera vista parece que esto echa por tierra lo dicho anterioremente.
-Pero estoy de acuerdo tanto con Wittgenstein como con Austin, ¿cómo arreglamos la tensión?
-Que haya hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que estos hechos hacen verdaderas a nuestras oraciones es algo que no puedo discutir.
-Lo que sí puedo discutir es que el mundo es bastante complejo.
+A primera vista parece que esto echa por tierra lo que dije relativo a los hechos y a las proposiciones.
+Si nunca son perfectamente acertadas las oraciones que usamos para hablar de las "cosas" que hay fuera de nuestra cabeza, entonces ¿Para que necesitamos a las proposiciones para individuar hechos?
+Esto se parece al argumento de Frege: la verdad no puede ser correspondencia porque la correspondencia admite grados, la verdad no.
+Algo sólo puede representar en cierto grado otra cosa, y sólo podemos representar a menos que los objetos que están relacionados (un objeto $A$ representando a un objeto $B$) sean cualitativamente idénticos, pero "la verdad no admite grados".
+
+Me parece que estamos perdiendo algo en esta discusión. 
+Estoy de acuerdo tanto con Wittgenstein como con Austin, ¿cómo arreglamos la tensión?
+Que haya hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que son  estos hechos hacen verdaderas a nuestras oraciones es algo que no puedo discutir, a menos que querramos involucrarnos en la semántica de la verdad, lo cuál no es nuestro tema actual.
+Pero la teoría correspondentista es muy intuitiva, especialmente la parte de que lo que sea que haga a nuestras oraciones verdaderas no es algo que dependa de nosotros.
+
+Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
+Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
+ gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
 Es costoso investigar, justificar y luego señalar que una oración es correcta.
 
 Digamos que queremos saber si una hipótesis es verdadera.
