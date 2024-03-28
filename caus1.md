@@ -191,192 +191,177 @@ Los accidentes ocurren constantemente y no podemos concluir que hay una relació
 Otra cosa que hay que tener en cuenta es que la investigación científica no está dedicada a descripciones de objetos particulares, sino que pretende hacer generalizaciones.
 Pero el argumento de Hume es más que convincente y, por lo regular, los efectos varían a pesar de tener la misma causa.
 Dependiendo de cómo el ambiente afecte un caso particular: quizás la ventana es más gruesa de lo normal y la piedra no es suficiente para romperla.
-Estas preguntas han llevado a los filósofos a preguntarse acerca de la naturaleza de la causalidad, que es de lo que se ocupa la siguiente sección.
+Estas preguntas han llevado a los filósofos a preguntarse acerca de la naturaleza de la causalidad, que es de lo que me ocuparé en la siguiente sección.
 
 
 # La naturaleza de la causalidad
 
-En la sección anterior expuse el analisis de Aristóteles y el desafío de Hume.
-Vimos que la caracterización de la causalidad que nos ofrece Hume,vimos que hya un problema con la pura costumbre.
-Esto nos dice que, a primera vista, aún no tenemos una buena caracterización de la causalidad.
-Problemas relacionados han llevado a muchos filósofos a analizar la naturaleza de la causalidad.
-En qué consiste la relación y cuáles son los **relata** y la **aridad** de dicha relación.
+En la sección anterior expuse el análisis de Aristóteles y el desafío de Hume.
+Vimos la caracterización de la causalidad que nos ofrece Hume y que hay un problema grave si la pura costumbre y conjunción constante son suficientes para que haya causalidad.
+Es decir que aún no tenemos una buena caracterización de la causalidad.
+Problemas como el anterior han llevado a muchos filósofos a analizar la naturaleza de la causalidad: en qué consiste la relación y cuáles son los **relata** y la **aridad** de dicha relación.
 
-Este debate está además atravesado por la distinción **token**/**type**[^8].
-Para dar un ejemplo: en 1980 comenzó el proyecto STAR en Tennessee, los legisladores buscaban reducir el número de estudiantes por salón [@llaudet2023].
-La apuesta era que reducir el número de estudiantes en un salón mejoraría el desempeño  de los estudiantes.
+Hay que aclarar que este debate está atravesado por la distinción **token**/**type**[^8].
+Para dar un ejemplo: en 1980 comenzó el proyecto STAR en Tennessee.
+Los legisladores buscaban reducir el número de estudiantes por salón [@llaudet2023] porque sospechaban que reducir el número de estudiantes en un salón mejoraría su desempeño.
 El proyecto resultó, en cierta medida, exitoso.
+Esto parece indicar que dadas ciertas condiciones muy específicas, ése grupo de estudiantes mejoró su desempeño.
 
-Ahora, pensemos en otro ejemplo.
+Ahora pensemos en otro ejemplo.
 En economía hay una famosa "ley"[^6], la "ley de la demanda".
 En términos generales, esta ley nos dice que, si mantenemos fijas todas las variables y aumentamos el precio de un bien, entonces la demanda del bien bajará.
 
-El primer caso es un **token**.
-En ese experimento particular, con esa población particular, observamos el resultado.
-El segundo caso es un **type**.
-El aumento en el precio de un bien, baja la demanda del bien.
-
-## _Relata_
+El primer caso es uno que relaciona **tokens**.
+En ese experimento particular, con esa población particular; el segundo caso es uno que relaciona **types**: el aumento en el precio de cualquier bien, reduce su demanda.
 
 Debido a que podemos hacer una distinción entre casos particulares (token)
 y casos generales (types), podemos tener diferentes combinaciones de _relata_.
 De manera prominente, se ha debatido si los _relata_ de una relación causal
 son: **eventos**, **hechos** o **variables**.
-Comenzaré esta sección discutiendo una teoría de la causalidad que toma eventos como _relata_ ¿cómo interactúan causalmente los eventos?
+En la siguiente sección me propongo a explorar dos teorías humeanas[^13] --en las cuales los _relata_ son eventos y hechos-- y una teoría no-reduccionista[^1n].
+Si asumimos que la causalidad relaciona eventos como, ¿cómo interactúan causalmente los eventos?
 
-### Eventos
 
-De manera general, caracterizamos a los eventos como algo que pasa: entidades que suceden en una localización espacial y duran un periodo de tiempo.
-Ahora, supongamos que salgo de mi casa y tropiezo, ¿son dos eventos "mi salir de casa" y "mi tropezar"?, o ¿sólo hay un evento, esto es, "salir de casa y tropezar"?
+# _Relata_
+
+## Eventos
+
+De manera general, caracterizamos a los eventos como algo que pasa: entidades que suceden en una localización espacial y duran un periodo determinado de tiempo, por dar un ejemplo: salgo de mi casa y tropiezo
+En ese caso ¿son dos eventos "mi salir de casa" y "mi tropezar"?, o ¿sólo hay un evento, esto es, "salir de casa y tropezar"?
 
 Supongamos que son dos eventos distintos.
 Si son dos eventos distintos, entonces podemos decir que el momento justo cuando salgo de la puerta determina el primer evento; y que justo antes de pegar mi pie en la zanja comienza el segundo evento.
 Para tratar de separar estos eventos, digamos que hay un periodo de dos segundos entre salir de mi casa y tropezar.
-Parece que estos dos segundos son cruciales para distinguir dos eventos.
-Pero si comenzamos a acortar estos dos segundos hasta que haya 0 segundos entre ambos, no queda claro que haya dos eventos sucediendo: sólo uno.
-Cabe señalar que esto último depende de que algunos filósofos han señalado que no es posible que dos eventos ocurran en el mismo lugar y al mismo tiempo[^12].
+Parece sensato decir que estos dos segundos son cruciales para distinguir dos eventos.
+Supongamos ahora que comenzamos a acortar estos dos segundos, de manera que en el proceso, terminamos con 0 segundos entre ambos, ahora no queda es tan claro que haya dos eventos sucediendo[^2n].
 
-Ahora bien, no hay un consenso exacto sobre el debate de individuación de los eventos, pero espero que el ejemplo anterior ayude a detonar cierrtas intuiciones para entender la siguiente discusión.
-Aunque necesitamos criterios de individuación de eventos, Kim [-@kim1973]
-nos presenta una teoría humeana[^13] de la causalidad que relaciona eventos, al mismo tiempo que ofrece criterios de individuación para eventos.
+No hay un consenso general sobre cómo individuamos eventos, pero espero que el ejemplo anterior ayude a detonar ciertas intuiciones para entender la siguiente discusión.
+Para una teoría que relacione eventos, ecesitamos criterios de individuación y esto es justo lo que ofrece Jaegwon Kim [-@kim1973].
+Kim desarrolla una teoría humeana de la causalidad, cuyos _relata_ son eventos y ofrece criterios de individuación para eventos.
 
 Kim comienza discutiendo los componentes de la causalidad que ofrece Hume.
 La motivación para desarrollar una teoría de los eventos es que, los componentes de la caracterización de Hume relacionan diferentes categorías de entidades.
 
-1. La conjunción constante parece relacionar eventos generales, _i. e._, eventos-_type_.
-Por ejemplo, el disparo de un arma apuntando a alguien, mata a ese alguien.
-1. La prioridad temporal parece relacionar eventos individuales.
-El disparo, cuando Óscar presiona el gatillo de la pistola apuntando a Roberto, mata a roberto.
-2. La contigüidad espacio-temporal relaciona objetos. 
-Si distinguimos entre contigüidad temporal, claramente puede relacionar eventos; por otro lado, la contigüidad espacial relaciona objetos.
+1. La conjunción constante parece relacionar eventos generales, _i. e._, eventos-**type**: el disparo de un arma particular apuntando a alguien, mata a ese alguien.
+1. La prioridad temporal parece relacionar eventos individuales: Óscar disparando provoca la muerte de roberto.
+2. La contigüidad espacio-temporal relaciona objetos. Pero si distinguimos entre contigüidad temporal, claramente puede relacionar eventos; pero la contigüidad espacial relaciona objetos.
 3. La conexión necesaria relaciona oraciones, no es claro cómo lidiar con conexiones necesarias _de re_, pero es sensato hablar de necesidad _de dicto_.[^7]
 
-Es decir que las condiciones de la teoría humeana[^14] " ... hacen que la relación causal sea ontológicamente incoherente." [@kim1973, p. 218] por lo que es necesario ofrecer una ontología de la causalidad que no tenga estos problemas.
+Es decir que las condiciones de la teoría humeana[^14] " ... hacen que la relación causal sea ontológicamente incoherente." [@kim1973, p. 218], por lo que es necesario ofrecer una ontología de la causalidad que no tenga estos problemas.
 
-Aquí me gustaría hacer un breve comentario, las distinciones que hace Kim de estas relaciones, son útiles para capturar la diferencia entre eventos-_token_ y eventos-_type_.
-Los eventos individuales son entidades concretas que duran un tiempo determinado.
-Consideremos el siguiente ejemplo: el evento en el que Miguel tira una taza y esto causa que la taza se rompa.
-Mientras que los eventos-_type_ (eventos genéricos en términos de Kim), son regularidades que relacionan las propiedades involucradas entre dos eventos-_token_.
-Digamos que hay una ley que relaciona $F$ ="ser una taza golpeada" con $G$ = "ser una taza rota".
-Donde esta ley relaciona ambas propiedades en conjunción constante y que son instanciadas por eventos-_token_.
+Aquí me gustaría hacer un breve comentario, las distinciones que hace Kim de estas relaciones, son útiles para capturar la diferencia entre eventos-**token** y eventos-**type**.
+Los eventos-**token** son entidades concretas que duran un tiempo determinado: el evento en el que Miguel tira una taza y esto causa que la taza se rompa; mientras que los eventos-**type** (eventos genéricos en términos de Kim), son regularidades que relacionan las propiedades involucradas entre dos eventos-**token**.
+Digamos que hay una ley que relaciona $F$ ="ser una taza golpeada" con $G$ = "ser una taza rota", donde la ley relaciona ambas propiedades en conjunción constante y que son instanciadas por eventos-**token**.
 
-Siguiendo con la discusión de Kim, para ofrecer una teoría causal necesitamos dos ingredientes: primero una caracterización de eventos particulares y luego esta teoría debe decirnos cómo las propiedades involucradas en los eventos-_token_ están causalmente relacionadas.
+Siguiendo con la discusión de Kim, para ofrecer una teoría causal necesitamos dos ingredientes: primero una caracterización de eventos particulares y luego esta teoría debe decirnos cómo las propiedades involucradas en los eventos-**token** están causalmente relacionadas y obtener eventos genéricos.
 Comenzando con la individuación de eventos, nuestro ejemplo anterior se puede analizar en los siguientes términos: (i) "la taza es golpeada por Miguel en $t$" y (ii)"la taza se rompe en $\Delta t$".
-Para dar una estructura a los eventos, para nuestros eventos anteriores, usamos la siguiente formalización: (i) = $[(x_{n}, t), P]$ y (ii) = $[(x_{n}, t), P']$.
+Para dar una estructura a nuestros eventos anteriores, usamos la siguiente formalización: (i) = $[(x_{n}, t), P]$ y (ii) = $[(x_{n}, t), G']$.
 
-En este ejemplo, la taza tiene dos propiedades en diferentes periodos de tiempo: "ser golpeada" y "estar rota". 
+En este ejemplo, la taza tiene dos propiedades en diferentes periodos de tiempo: "ser golpeada" y "estar rota".
 Durante un periodo de tiempo, la taza está siendo golpeada y durante un periodo de tiempo, la taza se está rompiendo[^9].
 
-A partir de esta caracterización de los eventos[^10], Kim desarrolla una teoría humeana que no tenga el problema que motiva su proyecto.[^11]
-Intuitivamente cualquier evento-_token_, es una instancia de un evento-_type_.
-Entonces necesitamos una forma de relacionar eventos-_type_, tal que podamos decir que hay una conjunción constante y que esto sea un análisis completo de la causalidad.
+A partir de esta breve caracterización de lo que intuitivamente son los eventos[^10], Kim desarrolla una teoría humeana que no tenga el problema que motiva su proyecto.
+Intuitivamente cualquier evento-**token**, es una instancia de un evento-**type**,entonces necesitamos una forma de relacionar eventos-**type**, de manera que seamos capaces de decir que hay una conjunción constante.
 
 Kim evalúa diferentes opciones que pueden servir para definir la relación causal.
-Para no entrar en más detalles, Kim se decanta por una relación de contigüidad espaciotemporal.
-Si la localización de un evento es contigua con otro evento y hay un evento complejo que relaciona  los objetos constitutivos de los eventos anteriores, entonces eso hace que uno de los objetos tenga una nueva propiedad.
-Esta formulación es bastante engorrosa, por lo que hay que desempaca lo que hay en el enunciado anterior.
+Para no entrar en muchos detalles, Kim se decanta por una relación de contigüidad espaciotemporal.
+Si la localización de un evento es contigua con otro evento, hay un evento complejo que relaciona los objetos constitutivos de los eventos anteriores y debido a lo anterior uno de los objetos involucrados tiene una nueva propiedad: entonces hay una relación causal.
+Esta formulación es bastante engorrosa, por lo que hay que desempacar los términos que hay en el enunciado anterior.
 
 La definición completa es la siguiente
 
 > $[(a, b, T), P]$ es una causa de $[(b, T'), Q]$ siempre que: 
 > (i) $[(a, b, T)]$ y $[(b, T'), Q]$ existan y, 
 > (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ existe $\implies$ $[(y, t + \Deltat), Q] existe$, 
-> donde $\Delta t = T' - T$. [^15] [@kim1973, p. 234]
+> donde $\Delta t = T' - T$.[^15] [@kim1973, p. 234]
 
 Esto es una definición **reduccionista** de la causalidad.
-Reduccionista porque no usa lenguaje causal en la parte definitoria.
-La definición anterior está atravesada por la relación de contigüidad, pero para omitir detalles, podemos pasar a la última dfinición que ofrece Kim.
-
+Es reduccionista porque no usa lenguaje causal en la parte definitoria.
 La parte de "causa" en la anterior definición es el evento complejo que nos dice que hay una relación entre $a$ y $b$ en un tiempo $T$ específico.
 La segunda parte, el "efecto", es el evento en el que $b$ es $Q$ en $T'$.
-
 Por ejemplo, supongamos que la causa soy yo dando una patada a mi librero en $T$ y sucede, entonces, que el librero se cae en $T'$.
 El ejemplo anterior satisface (i).
-Para satisfacer (ii) necesitamos que haya un universal que diga que las patadas y los libreros cayéndose en un periodo de tiempo después de la patada al librero.
+Para satisfacer (ii) necesitamos que haya un universal que relacione las patadas y los libreros cayéndose.
 
-(ii) parece ser una gran restricción para las relaciones causales, sin embargo, esta condición es muy fácil de satisfacer.
-Yo tengo una relación con mi librero: es mío y, supongamos que satisfacemos el siguiente universal: todos los libreros que tienen dueño se caen.
-Entonces mi ser dueño del librero **causa** que se caiga.
+Pero la condición (ii) parece ser una gran restricción para las relaciones causales, sin embargo, esta condición es muy fácil de satisfacer.
+Yo tengo una relación con mi librero: es mío y, supongamos que satisfacemos el siguiente universal: todos los libreros que tienen dueño se caen: siendo el dueño del librero **causa** que el librero se caiga.
 
-Lo anterior es un contraejemplo, que es altamente debatible.
-En primer lugar parece violar la condición de contigüidad, pero no es descabellado pensar que puede haber libreros que se caigan al lado de sus dueños (por ejemplo, durante un terremoto).
-Esto hace que la definición sea incorrecta.
-En segundo lugar, la definición trivializa los eventos únicos.
+El ejemplo anterior es altamente debatible.
+Alguien puede señalar que viola la condición de contigüidad.
+Pero claramente hay libreros que se caen al lado de sus dueños.
+Si el ejemplo es plausible, entonces la definición de Kim es muy amplia.
 
+Aun si dijéramos que el ejemplo anterior es un mal ejemplo, existe otro problema, esto es que la definición trivializa los eventos únicos.
 Sabemos que hubo un punto del tiempo evolutivo en el que la vida dio un paso del agua a la tierra.
-Esto fue un evento único en la historia de la vida evolutiva de muchas especies.
-Para no complicar la parte de "evento único",[^16] supongamos que un grupo, dentro de alguna población realizó este paso.
+Esto fue un evento único en la historia de la vida evolutiva de muchas especies.[^16] Supongamos también que un grupo dentro de alguna población realizó este paso.
 
-Dado que previo a este fenómenos, toda la vida del planeta residía en el agua, todos los organismos guardan una relación con ella "viven ahí".
-Además ambos objetos son contiguos espacial y temporalmente. 
-El efecto es el paso de la vida a la tierra en un periodo $\Delta t$.
-Entonces, que los organismos viva en el agua, causa la vida en la tierra.
+Dado que previo a este fenómenos, toda la vida del planeta residía en el agua, todos los organismos guardan una relación con ella, porque viven ahí.
+Además ambos objetos son contiguos espacial y temporalmente.
+Entonces tendríamos que concluir que los organismos viviendo en el agua, causa el traslado de la vida a la tierra.
 
-Esta relación causal claramente es incorrecta.
-La causa de que haya vida en la tierra depende de factores muy diferentes a su vida en el agua.
-Y aún cuando parezca necesario que tiene que haber vida en el el agua, para que haya vida en la tierra, esto no es efecto de lo primero.
-Considérese además que lo mismo pudo pasar si la vida hubiera iniciado en la tierra y hubiese pasado al agua.
-Por tanto, la vida en el agua tampoco es una condición necesaria de la vida en la tierra.
+Esta conclusión claramente es incorrecta.
+La causa de que haya vida en la tierra depende de factores muy diferentes a que vivan en el agua; aún cuando parezca necesario que tiene que haber vida en el agua, para que haya vida en la tierra, lo segundo no es efecto de lo primero.
 
-A partir de esta discusión, podemos extraer un par de conclusiones.
-Primero, que aún no tenemos una buena caracterizaciuón reduccionista de la causalidad.
-Segundo, que la causalidad juega un papel importante en nuestras explicaciones científica y que la naturaleza de la causalidad es un tema importante para cuestiones de explicación.
-Por último, que asumiendo la subsunción de eventos bajo un patrón (los universales de la condición (ii)) hemos perdido la relación entre objetos particulares.
+A partir de lo dicho en esta sección, podemos extraer un par de conclusiones.
+Primero, que aún no tenemos una buena caracterización de la causalidad.
+Segundo, como intenté mostrar con los ejemplos, que la causalidad juega un papel importante en nuestras explicaciones científicas.
+Por último, asumiendo la subsunción de eventos bajo un patrón (los universales de la condición (ii)) no somos capaces de dar una explicación para la relación entre eventos particulares.
 
-Este último es un problema para muchas de nuestras teorías de la causalidad y no queda claro cómo podría resolverse, o si todas nuestras teorías de la causalidad, inevitablemente estñan condenadas a que este sea un problema.
+Este último es un problema para muchas de nuestras teorías de la causalidad y no queda claro cómo podría resolverse; quizás todas nuestras teorías de la causalidad, están condenadas a perder la explicación de eventos únicos;
+Pero podemos explorar una teoría de la causalidad que no relacione eventos.
+Quizás podamos ofrecer solución a estos problemas si los relata son **hechos** y no **eventos**.
 
-Sea como sea, pensemos en una teoría de la causalidad que no relacione eventos.
-Quizás los relata son **hechos** y no **eventos**.
-Esto es tema de la siguiente sección.
 
 ### Hechos {#sec:hechos}
 
-Si bien mencione rápidamente un par de problemas pendientes en la caracterización de los eventos como _relata_ de la relación causal, otros filósofos no están de acuerdo en que los _relata_ de las relaciones causales sean los eventos.
-La motivación clásica es que algunas relaciones causales dependen de ausencias: por ejemplo, "que José no haya regado su orquídea, causa que la orquídea se seque".
+Si bien mencione rápidamente un par de problemas pendientes en la caracterización de los eventos como _relata_, hay otras razones por las cuáles los filósofos no están de acuerdo en que los _relata_ sean **eventos**.
+La motivación clásica es que algunas relaciones causales dependen de ausencias: "que José no haya regado su orquídea, causa que la orquídea se seque".
 
-En el ejemplo anterior, intuitivamente decimos que no existe un evento tal como "José no-regando su planta", José simplemente no lo hizo.
-Pero claramente hay una relación causal entre la falta de agua de la planta y su muerte posterior, entonces las ausencias son causas, y como no hay tal cosa como eventos que no ocurren, entonces lo eventos no son _relata_.[^11]
+Intuitivamente decimos que no existe un evento tal como "José no-regando su planta", José simplemente no lo hizo.
+Pero claramente hay una relación causal entre la falta de agua de la planta y su muerte posterior.
+Esto quiere decir que las ausencias son causas, y como no hay tal cosa como eventos que no ocurren, entonces lo eventos no son _relata_.[^11]
 Esta motivación ha llevado a algunos filósofos a optar por otro tipo de _relata_.
 
-Entre los más discutidos tenemos a los "hechos" y las "variables".
-Dejaré la caracterización de las variables para una sección posterior, porque me parece que es la mejor manera para comenzar a discutir características epistémicas de este tema.
-Por el momento concentrémonos en dar una caracterización de la causalidad que relacione _hechos_.[^7]
+Entre los _relata_ más discutidos tenemos a los "hechos" y a las "variables".
+Dejaré la caracterización de las variables para una sección posterior @sec:varia, porque me parece que es la mejor manera para comenzar a discutir ciertas características epistémicas de este tema.
+Por el momento concentrémonos en dar una caracterización de la causalidad que relacione _hechos_.
 
-Uno de los defensores más prominentes de una teoría causal en la que los "hechos" son _relata_, es John Mellor [-@Mellor1995-MELTFO-6].
+Uno de los defensores más prominentes --de una teoría causal en la que los "hechos" son _relata_-- es John Mellor [-@Mellor1995-MELTFO-6].
 El argumento de ausencias como causas loe podemos encontrar en en el capítulo 11,parágrafo 2.
-En su libro, Mellor ofrece una defensa sustanciosa de su teoría.
-Por supuesto, una teoría de la causalidad que relacione hechos, depende de la naturaleza de éstas entidades y de cómo individuarlos: tal como hicimos con los eventos.
+En su libro, Mellor ofrece una defensa sustanciosa de su teoría y por supuesto, una teoría de la causalidad que relacione hechos, depende de cómo caractericemos la naturaleza de éstas entidades.
 
 Me parece que la teoría causal de Mellor es más que plausible, pero tengo algunas reservas.
 Estas reservas están centradas en la caracterización que da Mellor de los hechos.
-Uno de los problemas que tengo con la teoría se debe a la caracterización de los _hechos_ que hace Mellor: no hay una caracterización clara.
+Uno de los problemas que tengo con la teoría es que no hay una caracterización clara.
 
 Mellor inicia el capítulo 9 con una discusión sobre cómo caracterizar a los "hechos".
-Dados los ejemplos que ofrece parece referirse a una forma clásica de individuar hechos: de acuerdo a la proposición que hacen verdadera, tal como parece afirmar diciendo "Para ver cómo esto puede suceder, recordemos que los hechos, por definición, corresponden a oraciones verdaderas, tales como, 'Donald cae' y 'Donald muere'" [^12] [-@Mellor1995-MELTFO-6, p. 106].
+Dados los ejemplos que ofrece parece referirse a una forma clásica de individuar hechos: de acuerdo a la proposición que hacen verdadera "Para ver cómo esto puede suceder, recordemos que los hechos, por definición, corresponden a oraciones verdaderas, tales como, 'Donald cae' y 'Donald muere'."[^3n] [-@Mellor1995-MELTFO-6, p. 106].
 
-Pero no es claro si esta es su intención, ya que parece admitir que, a pesar de que las oraciones son verdaderas debido al hecho con el cual corresponden, Mellor dice que "With this I agree: my claim that facts correspond to truths is meant to define facts,not truth" (p., 110) y unos párrafos después 
+Pero no es claro si esta es su intención, ya que parece admitir que, a pesar de que las oraciones son verdaderas debido al hecho con el cual corresponden "... mi afirmación de que los hechos sorresponden a la verdad es para definir a los hechos, no a la verdad"[^4n] (p., 110) y unos párrafos después 
 
 > En principio, incluso si dicho criterio [criterio de identidad] es necesario, no necesito proveerlo.
 > He dicho que la causalidad reportada por una oración verdadera 'E porque C' puede enlazar lo que sea que haga 'C' y 'E' verdaderos.
 > En otras palabras, nuestra teoría de la causalidad puede ayudarse, de cualquiera que sea, la teoría correcta de la verdad que dé cuenta de la verdad de 'C' y 'E'. (p., 112) [^13]
 
-Si las oraciones que involucran algún tipo de término causal son verdaderas, Mellor nos dice, son verdaderas en virtud de los hechos; pero al mismo tiempo, nos dice que no importa cómo es que dichas oraciones son verdaderas.
+No es claro si Mellor tiene en mente otras teorías de la verdad clásicas[^19], como la coherentista o la pragmatista.
+Además, si las oraciones que involucran algún tipo de término causal son verdaderas, Mellor nos dice, son verdaderas en virtud de los hechos, lo que parece involucrar una teoría correspondentista; mientras al mismo tiempo, nos dice que no importa cómo es que dichas oraciones son verdaderas.
 Es decir que no individuamos a los hechos por las oraciones verdaderas con las que corresponden, porque es difuso cómo es que llegan a ser verdaderas.
-Lo cuál claramente hace espurio el punto inicial: cómo individuar hechos.
+Lo cuál claramente hace espurio el punto inicial: ¿cómo individuamos hechos?
 
 El argumento de Mellor está relacionado con que si aceptamos una teoría correspondentista de la verdad, entonces no hay manera independiente de decir qué son los hechos.
-Es esto una parte con la que no concuerdo.
+Pero no concuerdo con esta afirmación.
+Creo que es posible dejar a la teoría correspondentista tal como está y usarla para individuar a los hechos.
+Pero tengo la misma preocupación que tiene Mellor acerca de cómo nuestras oraciones verdaderas "corresponden" con los hechos.
 
 Además del punto anterior, Mellor introduce un nuevo tipo de entidades: los _facta_. 
 Mellor nos dice que los _facta_ son distintos a los hechos.
 La diferencia, me parece, queda más clara si pensamos, por ejemplo, en el hecho "la muerte de Don".
 Esta oración es verdadera si Don de hecho muere, aunque la manera en la que este hecho "llegó a ser", pudo haber ocurrido de formas diferentes.
-Don de hecho murió porque se cayó, pero pudo haber muerto de envenamiento; lo pudo haber atropellado el tren, etc. 
-Pero esto no sucedió.
-Los _facta_ corresponden con estas diferentes maneras en las que el hecho "La muerte de Don" pudo llegar a haber sido.
+Don de hecho murió porque se cayó, pero pudo haber muerto de envenamiento; lo pudo haber atropellado el tren, etc, aunque ninguna haya sucedido.
+Los _facta_, dice Mellor, corresponden con estas diferentes maneras en las que el hecho "La muerte de Don" pudo llegar a haber sido.
 
 Creo que una buena caracterización de los hechos puede explicar cómo es que las oraciones son verdaderas, ofrecer un criterio de individuación y no servirse de los _facta_ para explicar cómo llegó a darse el hecho.
-Además, esta caracterización me permitirá pasar de la ontología de los hechos a la de las variables.
+Además creo que esta caracterización me permitirá pasar de la ontología de los hechos a la de las variables.
 Trataré de hacer inteligible esta estrategia en las siguientes secciones.
 
 #### I
@@ -385,23 +370,22 @@ Entre filósofos hay un acuerdo más o menos general: que los hechos son fenóme
 Creo que todos nosotros estamos de acuerdo que es un hecho que (i) "Andrés Manuel López Obrador es el actual presidente de México", y que  (ii) "La suma de $2+2=4$".
 Además, creo que estamos de acuerdo i y ii no depende de lo que creamos.
 Uno puede exclamar algo como "¡AMLO no es mi presidente!", pero esto sugiere cierta inconformidad con el mandatorio, no por ello deja de ser presidente.
-Es decir que hay una fuerte intuición, generalizada, de que nuestros estados epistémicos no afectan lo que es un hecho, por ejemplo, nuestras creencias.
+Es decir que tenemos la fuerte intuición de que nuestros estados epistémicos no afectan lo que es un hecho: nuestras creencias no afectan el mundo.
 
-Partiré del supuesto anterior --que los hechos son independientes de la mente humana-- y ofreceré algunas razones para individuar los hechos de acuerdo a las _proposiciones_ que hacen verdaderas.
-Además, quiero introducir otro supuesto: el mundo es complejo y evaluar los hechos cuesta trabajo.
-Esto significa que difícilemmte somos capaces de ofrecer una caraterización de grano fino de los hechos.
+Partiré del supuesto anterior --que los hechos son independientes de la mente humana-- y ofreceré algunas razones para individuar los hechos de acuerdo a las **proposiciones** que hacen verdaderas.
+Además quiero introducir otro supuesto: el mundo es altamente complejo y es una tarea complicada evaluar si nuestras descripciones corresponden con los hechos.
+Lo que diré implica que los humanos difícilmente somos capaces de ofrecer una caracterización de grano fino de los hechos.
 Pero esto no quiere decir que debamos echar por tierra el tema de la individuación de los hechos.
-Diré más sobre esto al final de esta sección.
 
-Una motivación para tomar este criterio --individuar a partir de las oraciones que hacen verdaderas--, es que nos ofrece un claro criterio de individuación.
-Además, podemos estar de acuerdo con que los "hechos" causales no son afectados por nuestros estados epistémicos.
-Por ejemplo, la proposición "el calentamiento global se debe a la intervención humana en el ambiente".
-El verbo "_se debe a_" en la oración anterior es un término causal: la intervención humana _causa_ el calentamiento global y esto es verdad independientemente de lo que algunos creen.
-Con estas motivaciones en mano, veamos cómo individuar hechos.
+Además, los "hechos" causales tampoco son afectados por nuestros estados epistémicos.
+Por ejemplo, en la oración "el calentamiento global se debe a la intervención humana en el ambiente".
+El término "_se debe a_" es un término causal: la intervención humana _causa_ el calentamiento global; y esto es verdad independientemente de lo que algunos creen.
+Con estos supuestos en mano, veamos cómo individuar hechos.
+
 
 #### II
 
-Lo anterior sugiere que los _hechos_ causales, en efecto, pertenecen al conjunto de los _hechos_ a secas.
+Lo anterior sugiere que los hechos causales, en efecto, pertenecen al conjunto de los hechos a secas.
 Sabemos, además, que la relación causal no puede ser verdadera o falsa, ése es un fenómeno físico; Por otro lado, las oraciones que proferimos sí pueden ser verdaderas o falsas.
 Más aún, nuestras oraciones tienen cierto contenido: 2 oraciones pueden significar lo mismo (aún siendo distintas oraciones); además tenemos fenómenos como la sinonimia, la homonimia y la homofonía.
 Los filósofos tienen una manera muy elegante de explicar los fenómenos anteriores: _las proposiciones_
@@ -425,8 +409,7 @@ Es decir que las proposiciones son verdaderas en virtud de los hechos, pero la p
 
 #### IV
 
-Si todo lo anterior es correcto, podemos interpretar a Wittgenstein diciendo que los hechos son fenómenos _en el mundo_ y son los hechos lo que hacen que una proposición sea verdadera.[^14] [^19]
-Siguiendo esta línea de razonamiento, podemos afirmar que: los hechos están individuados debido a la proposición a la cuál corresponden.
+Si todo lo anterior es correcto, podemos interpretar a Wittgenstein diciendo que los hechos son fenómenos _en el mundo_ y son los hechos lo que hacen que una proposición sea verdadera.[^14]Siguiendo esta línea de razonamiento, podemos afirmar que: los hechos están individuados debido a la proposición a la cuál corresponden.
 Cada proposición tiene una forma lógica y cada hecho también y la proposición es verdadera syss tiene la misma forma lógica que el hecho.
 
 Sin embargo, no todos los filósofos están de acuerdo con esta relación entre lenguaje y mundo.
@@ -561,13 +544,8 @@ Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verda
 Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
  gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
 
-Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
-Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
- gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
-
 no puedo discutir, a menos que querramos involucrarnos en la semántica de la verdad, lo cuál no es nuestro tema actual
 
-1. Decir por qué las estrategias son reduccionistas. "Estas estrategias son reduccionistas porque tratan de analizar la causalidad en términos que no involucren términos causales, mientras que la teoría intervencionista toma causalidad como primitiva"
 2. Terminar la sección "eventos", porque parece que queda al aire.
 
 Dada la generalidad de esta relación, podemos decir que los eventos-_type_ "presionar el botón" y "prender el televisor" están en conjunción constante cuando presiono el botón de mi televisor y se enciende un televisor en Taiwán.
@@ -576,6 +554,14 @@ Podríamos restringir este tipo de eventos, diciendo que presionar el botón de 
 Paro nuestras relaciones causales, muchas veces, relacionan dos objetos, por lo que esto hace que la relación sea demasiado restringida.
 
 Algunos
+
+
+[^2n]: Cabe señalar que esto último depende de que lo que algunos filósofos han señalado: no es posible que dos eventos ocurran en el mismo lugar y al mismo tiempo. Al menos esto sugiere Quine en [-@quine1985] cuando dice que podemos individuar los eventos como constructos de objetos físicos y que los objetos físico están individuados por su extensión espacial.
+
+
+[^1n]: En filosofía llamos reduccionistas a aquellas estrategias que tratan de analizar la causalidad en términos que no involucren, a su vez, términos causales. Por su parte, la teoría intervencionista toma causalidad como primitivo de la teoría.
+
+[^4n] En el original "... my claim that facts correspond to truths is meant to define facts, not truth"
 
 [^15]: En el original $[(a, b, T), P]$ is a cause of $[(b, T'), Q]$ provided: (i) $[(a, b, T)]$ and $[(b, T'), Q]$ exist, and (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ exists $\implies$ $[(y, t + \Delta t), Q] exists) [_sic._]$, where $\Delta t = T' - T$. [@kim1973, p. 234]. El último paréntesis después de "exists" está en el texto original. Aquí asumo que es una errata. 
 
@@ -590,7 +576,7 @@ Algunos
 
 [^6]: Digamos que es una oración *legaliforme*. Algunos filósofos defienden que una oración legaliforme es una ley de la naturaleza sólo si aparece como axioma en nuestras mejores teorías de una ciencia completamente desarrollada. Llamemos a esta teoría nuestro sistema. Este axioma sistematizaría nuestro conocimiento de manera tal que hay un balance entre la simplicidad de nuestro sistema y qué tan informativo es [@cohen2009]. Otros filósofos, como Nancy Cartwright, niegan que haya tales entes como leyes de la naturaleza (al menos si las entendemos como regularidades sin excepciones), sino que, aquello que llamamos leyes son regularidades sin excpeción sólo en escenarios altamente idealizados, véase [-@cartwright1983] y [-@cartwright2022]. Dado el estado actual de nuestras teorías económicas, esta "ley", de hecho tiene excepciones. Como el análisis de las leyes no es el tema de este capítulo, evitaré dentro de lo posible usar el término.
 
-[^7]: La distinción _de re_/_de dicto_ es importante para hablar de enunciados modales. Entre las modalidades tenemos: modalidad alética, modalidad epistémica y modalidad deóntica. La primera lidia con oraciones de posibilidad (◇) y necesidad (□); la modalidad epistémica lidia con enunciados sobre creencias, conocimiento y justificación; la modalidad deóntica lidia con oraciones sobre obligación y permisión. De manera clásica [@quine1956] hacemos la distinción dependiendo del alcance del cuantificador. Si decimos "Jaime cree que hay un espía", entendemos la oración de al menos dos maneras: o bien "Jaime cree que hay al menos un espía", o bien "Jaime cree que hay alguien que es un espía". En el primer caso, la creencia de Jaime es verdadera en caso de que Jaime crea que hay espías; la segunda oración es verdadera en caso de que haya un sujeto particular, tal que, Jaime cree que ese sujeto es un espía. En el segundo caso, Jaime es una fuente de información valiosa para la policía, mientras que en el primer caso, no.
+[^7]: La distinción _de re_/_de dicto_ es importante para hablar de enunciados modales. Entre las modalidades tenemos: modalidad alética, modalidad epistémica y modalidad deóntica. La primera lidia con oraciones de posibilidad (◇) y necesidad (□); la modalidad epistémica lidia con enunciados sobre creencias, conocimiento y justificación; la modalidad deóntica lidia con oraciones sobre obligación y permisión. De manera clásica [@quine1956] hacemos la distinción dependiendo del alcance del cuantificador. Si decimos "Jaime cree que hay un espía", entendemos la oración de al menos dos maneras: o bien "Jaime cree que hay al menos un espía", o bien "Jaime cree que hay alguien que es un espía". En el primer caso, la creencia de Jaime es verdadera en caso de que Jaime crea que hay espías; la segunda oración es verdadera en caso de que haya un sujeto particular, tal que, Jaime cree que ese sujeto es un espía. En el segundo caso, Jaime es una fuente de información valiosa para la policía, mientras que en el primer caso no.
 
 [^8]: Un ejemplo que captura esta distinción es pensa en la palabra "banana". Dicha palabra tiene 6 _tokens_: "B", "A", "N", "A", "N" y "A"; la misma palabra tiene 3 _types_: "B", "A" y "N".
 
@@ -598,18 +584,14 @@ Algunos
 
 [^10]: Kim ofrece también condiciones de existencia y condiciones de identidad para eventos.
 
-[^11]: Ciertamente individuar eventos no es tarea fácil. Pensemos en casos históricos ¿exactamente dónde comienza y termina el _poner ejemplo_?
-
-[^12]: Al menos esto sugiere Quine en [-@quine1985] cuando dice que podemos individuar los eventos como constructos de objetos físicos y que los objetos físico están individuados por su extensión espacial. 
-
-[^13]: Se llama humeanas a las teorías de la "regularidad causal". Estas teorías, en su núcleo, afirman que las relaciones causales capturan regularidades: el efecto está regularmente asociado con su causa. Por lo regular, estos teóricos señalan que dichas regularidades son capturadas por las "leyes de la naturaleza". 
+[^13]: Se llama humeanas a las teorías de la "regularidad causal". Estas teorías, en su núcleo, afirman que las relaciones causales capturan regularidades: el efecto está regularmente asociado con su causa. Algunos de estos teóricos señalan que dichas regularidades son capturadas por las "leyes de la naturaleza".
 
 [^14]: En el original "renderingt he causal relation ontologically incoherent."
 
 [^15]: En el original $[(a, b, T), P]$ is a cause of $[(b, T'), Q]$ provided: (i) $[(a, b, T)]$ and $[(b, T'), Q]$ exist, and (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ exists $\implies$ $[(y, t + \Delta t), Q] exists) [_sic._]$, where $\Delta t = T' - T$. [@kim1973, p. 234]. El último paréntesis después de "exists" está en el texto original. Aquí asumo que es una errata. 
 
 
-[^16]: Pienso en el debate en filosofía de la biología sobre si lo que evoluciona son los organismos y las especies. Como estamos altamente influenciados por la genética de poblaciones, los biólogos asumen --generalmente--, que lo que evoluciona son las poblaciones. Ofrezco un ejemplo de poblaciones para no comprometerme con alguna posición en el debate. Echémosle la culpa a los biólogos. 
+[^16]: Una breve aclaración. En en filosofía de la biología se debate si lo que evoluciona son los organismos o las poblaciones. Como estamos altamente influenciados por la genética de poblaciones, los biólogos asumen --generalmente-- que lo que evoluciona son las poblaciones. 
 
 [^17]: En el original "The world is the sum total of all facts, not all things"
 
@@ -617,22 +599,19 @@ Algunos
 
 [^19]: Para una presentación más completa sobre las teorías clásicas de la verdad, refiero al lector a [@engel2014trut], especialmente el capítulo 1.
 
-[^20]: Las interpretaciones realistas acerca de los hechos asumen esto, que los hechos no dependen de los estados mentales de los agentes. Sin embargo, no todos están de acuerdo con esto. Uno de los argumentos de más peso al respecto es que no es claro cómo podemos individuar a los hechos [citar a Austin]. Otros filósofos, en particular filosófos de la ciencia, argumentan que nuestras descripciones de los fenómenos científicos están teóricamente cargadas [citar a norwood Russell Hanson]. Si están teóricamente cargadas nuestras descripciones, rentonces no son completamente independientes de nuestros estados mentales, por ejemplo, de nuestras teorías o de nuestras creencias.
-
-[^7]: Dichas entidades, los "hechos", tienen sus propios problemas metafísicos, en particular ¿cómo individuamos tales entidades? y no hay un acuerdo general acerca de cuál es su naturaleza.
-
+[^20]: Las interpretaciones realistas acerca de los hechos asumen esto. Sin embargo, no todos están de acuerdo. Por ejemplo, algunos filosófos de la ciencia, argumentan que nuestras descripciones de los fenómenos científicos están teóricamente cargadas [@Hanson1958-HANPOD]. Si nuestras descripciones están teóricamente cargadass, entonces no son completamente independientes de nuestros estados mentales.
 
 [^8]: Hay varias teorías de lo que es una proposición. Aquí tomo una ruta clásica. El lector interesado puede leer la entrada "Propositions" [citar la stanford]
 
 [^9]: Para una revisión más detallada de las teorías del significado
-proiposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
+proposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
 
 
 [^10]: Confronté mi lectura de Wittgenstein con la gran exposición que hace Potter [citar libro de Potter]. Me parece que estamos de acuerdo en la interpretación. Me gustaría afirmar que, por tanto, es correcta. Sin embargo, las interpretaciones de Wittgenstein son variadas. 
 
-[^11]: No todos los filósofos están de acuerdo con este argumento, en particular la premisa sobre "eventos negativos". Si bien, es plausible pensar que no hay tal cosa como eventos negativos, pero algunos filósofos señalan que es posible dar una caracterización de eventos que no tenga "eventos negativos" y que no excluya a los eventos como _relata_. Para más detalles, refiero al lector a [@Ehring2009]
+[^11]: No todos los filósofos están de acuerdo con este argumento. Si bien, es plausible pensar que no hay tal cosa como eventos negativos, algunos señalan que pueden ofrecer una caracterización de los eventos que no tenga este problema. Para más detalles, refiero al lector a [@Ehring2009]
 
-[^12]: En el original "To see how this can happen, recall that facts by definition correspond to true sentences, like 'Don falls' and 'Don dies'". 
+[^3n]: En el original "To see how this can happen, recall that facts by definition correspond to true sentences, like 'Don falls' and 'Don dies'". 
 
 
 [^13]: En el original "First, even if some such criterion is needed, I need not supply it. I have  said already that the causation reported by a true 'E because C' can link  whatever makes 'C' and 'E' true. In other words, our theory of causation can help itself to whatever the right theory of truth uses to account for the  truth of 'C' and 'E'."  
