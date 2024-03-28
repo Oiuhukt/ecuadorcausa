@@ -224,6 +224,7 @@ Si asumimos que la causalidad relaciona eventos como, ¿cómo interactúan causa
 
 # _Relata_
 
+
 ## Eventos
 
 De manera general, caracterizamos a los eventos como algo que pasa: entidades que suceden en una localización espacial y duran un periodo determinado de tiempo, por dar un ejemplo: salgo de mi casa y tropiezo
@@ -353,8 +354,8 @@ Pero no concuerdo con esta afirmación.
 Creo que es posible dejar a la teoría correspondentista tal como está y usarla para individuar a los hechos.
 Pero tengo la misma preocupación que tiene Mellor acerca de cómo nuestras oraciones verdaderas "corresponden" con los hechos.
 
-Además del punto anterior, Mellor introduce un nuevo tipo de entidades: los _facta_. 
-Mellor nos dice que los _facta_ son distintos a los hechos.
+Además del punto anterior, Mellor introduce un nuevo tipo de entidades: los __facta__. 
+Mellor nos dice que los __facta__ son distintos a los hechos.
 La diferencia, me parece, queda más clara si pensamos, por ejemplo, en el hecho "la muerte de Don".
 Esta oración es verdadera si Don de hecho muere, aunque la manera en la que este hecho "llegó a ser", pudo haber ocurrido de formas diferentes.
 Don de hecho murió porque se cayó, pero pudo haber muerto de envenamiento; lo pudo haber atropellado el tren, etc, aunque ninguna haya sucedido.
@@ -387,174 +388,86 @@ Con estos supuestos en mano, veamos cómo individuar hechos.
 
 Lo anterior sugiere que los hechos causales, en efecto, pertenecen al conjunto de los hechos a secas.
 Sabemos, además, que la relación causal no puede ser verdadera o falsa, ése es un fenómeno físico; Por otro lado, las oraciones que proferimos sí pueden ser verdaderas o falsas.
-Más aún, nuestras oraciones tienen cierto contenido: 2 oraciones pueden significar lo mismo (aún siendo distintas oraciones); además tenemos fenómenos como la sinonimia, la homonimia y la homofonía.
+Más aún, nuestras oraciones tienen cierto contenido: 2 oraciones pueden significar lo mismo (aún siendo distintas oraciones); tenemos además fenómenos como la sinonimia, la homonimia y la homofonía.
+
 Los filósofos tienen una manera muy elegante de explicar los fenómenos anteriores: _las proposiciones_
-Dos oraciones sinónimas tienen el mismo significado porque expresan la misma oración; dos palabras homófonas tienen diferente significado en una oración, porque las oraciones expresan diferentes proposiciones; un homónimo puede hacer que una oración sea verdadera o falsa, dependiendo del nombre que toma como valor, lo que a su vez pueden expresar dos proposiciones.[^9]
+Dos oraciones sinónimas tienen el mismo significado porque expresan la misma oración; dos palabras homófonas tienen diferente significado en una oración, porque las oraciones expresan diferentes proposiciones; un homónimo puede hacer que una oración sea verdadera o falsa, dependiendo del nombre que toma como valor, lo que a su vez pueden expresar dos proposiciones.[^9n]
 
-Esto nos permite pasar de oraciones a proposiciones, porque las oraciones son proferencias de un contenido que puede ser verdadero o falso.
-Por tanto, podemos olvidarnos por un momento de las oraciones, lo que necesitamos es una caracterización de las porposiciones.
-Desafortunadamente hay muchas[^8] maneras de caracterizar a las proposiciones, pero para esto, usaré una caracterización clásica: veamos un poco de la teoría de Wittgenstein.
+Esto significa que lo que realmente nos interesa de las oraciones verdaderas es su contenido. 
+Lo que me permite pasar de oraciones a sus contenidos, las *proposiciones*.
+Porque las oraciones son proferencias de un contenido que puede ser verdadero o falso.
+Por tanto, podemos olvidarnos por un momento de las oraciones, lo que necesitamos es una caracterización de las proposiciones.
+Desafortunadamente hay muchas[^8] maneras de caracterizar a las proposiciones, pero a favor del argumento, usaré una caracterización clásica: la teoría de Wittgenstein.
 
-#### III
+Ahora que tenemos a las proposiciones a la mano, hay que hablar de el contenido de las oraciones que involucran términos causales.
+Si tenemos una buena teoría de las proposiciones, entonces tenemos forma de individuar a los hechos.
+Para este argumento, primero hay que justificar el condicional "Si tenemos una buena..., entonces ...a los hechos" y después el antecedente.
+Una buena teoría de las proposiciones es la de Wittgenstein.
+Creo que es buena porque explica muchos fenómenos intuitivos: que el mundo no depende de nuestros estados epistémicos, cómo podemos fallar en que nuestras representaciones sean perfectamente acertadas, y qué es el contenido de una oración.
 
-Ahora que tenemos a las _proposiciones_ a la mano y nos parece muy claro cómo es que las oraciones tienen valor de verdad, en particular oraciones que involucran términos causales.
-Si las proposiciones dan son el significado de la oración y ambas pueden ser verdaderas o falsas, entonces tenemos forma de individuar a los hechos: cada hecho está asignado a una proposición.
-Retomando algunos pasajes del "Tractatus Logico-Philosophicus" de Wittgenstein, nuestro autor nos dice, en 1.1, que "El mundo es la suma total de los hechos, no de los objetos." [^17] [-@wittgenstein2024].
+Retomando algunos pasajes del "Tractatus Logico-Philosophicus" de Wittgenstein, nuestro autor nos dice, en 1.1, que "El mundo es la suma total de los hechos, no de los objetos."[^17] [-@wittgenstein2024].
 Señala además que los pensamientos son la forma en que nos representamos (verdadera o falsamente) los hechos --la llamada teoría pictórica de Wittgenstein--.
 
 Luego expresamos nuestros pensamientos en forma de marcas proposicionales: oraciones, sonidos, etc.
 El significado de una proposición depende de qué tan bien represente los hechos: si el hecho representado tiene la misma forma lógica que la proposición, entonces la proposición es verdadera.
-A esto, Wittgenstein nos dice que "Todo lo que es parte de la proyección es parte de la proposición, pero lo proyectado _no es_ parte de la proposición." [@wittgenstein2024, $\P$, 3.13 ] [^18]
-Es decir que las proposiciones son verdaderas en virtud de los hechos, pero la proposición depende de los hechos y no viceversa.[^10]
+Pero hay una precaución, Wittgenstein nos dice que "Todo lo que es parte de la proyección es parte de la proposición, pero lo proyectado _no es_ parte de la proposición."[^18] [-@wittgenstein2024, $\P$, 3.13 ].
+Es decir que las proposiciones son verdaderas en virtud de los hechos, pero la proposición depende de los hechos y no viceversa.[^10n]
 
-#### IV
+Si todo lo anterior es correcto, podemos interpretar a Wittgenstein diciendo que los hechos son fenómenos _en el mundo_ y son los hechos lo que hacen que una proposición sea verdadera.[^14n]
+Siguiendo esta línea de razonamiento, podemos afirmar que: los hechos están individuados debido a la proposición a la cuál corresponden.
+Porque a cada uno de los hechos les corresponde una proposición verdadera.
+Cada proposición tiene una forma lógica y cada hecho también, por lo que, la proposición es verdadera si y sólo sí tiene la misma forma lógica que el hecho.
+Entonces: tenemos una buena teoría de las proposiciones que nos permite individuar a los hechos.
 
-Si todo lo anterior es correcto, podemos interpretar a Wittgenstein diciendo que los hechos son fenómenos _en el mundo_ y son los hechos lo que hacen que una proposición sea verdadera.[^14]Siguiendo esta línea de razonamiento, podemos afirmar que: los hechos están individuados debido a la proposición a la cuál corresponden.
-Cada proposición tiene una forma lógica y cada hecho también y la proposición es verdadera syss tiene la misma forma lógica que el hecho.
+### III
 
-Sin embargo, no todos los filósofos están de acuerdo con esta relación entre lenguaje y mundo.
-Austin [-@Austin1950], por ejemplo[^15], señala que no siempre somos capaces de formarnos un pensamiento bien estructurado de los hechos.
+Sin embargo, no todos los filósofos están de acuerdo con esta teoría.
+Austin [-@Austin1950], por ejemplo[^15n], señala que no siempre somos capaces de formarnos un pensamiento bien estructurado de los hechos.
 Esto se debe a que en ocasiones nuestro lenguaje es insuficiente para describir con todo detalle el mundo.
-
 El argumento en el que estoy pensando aparece a partir de la subsección 5.
+
 Austin nos dice que una representación cualquiera no puede ser "verdadera", sino acertada.
-Además que los símbolos lingüísticos no difieren de otros símbolos, _e. g._ los de un mapa y que hay una plétora de maneras distintas de hablar acerca de la relación entre nuestras palabras y el mundo, "Decimos, por ejemplo, que una afirmación es exagerada,  vaga o trivial, que una descripción es muy general, cruda o engañosa, una explicación muy general o muy detallada" [^16](p. 37).
+Además que los símbolos lingüísticos no difieren de otros símbolos --por ejemplo, los de un mapa-- y que hay una plétora de maneras distintas de hablar acerca de la relación entre nuestras palabras y el mundo "Decimos, por ejemplo, que una afirmación es exagerada, vaga o trivial, que una descripción es muy general, cruda o engañosa, una explicación muy general o muy detallada"[^16n] (p. 37).
 
 Si estamos de acuerdo con lo que señala Austin, entonces parece claro que difícilmente podemos hablar de la "verdad" a secas de una oración cualquiera.
 Hay muchas formas diferentes de decir que algo es adecuado, no sólo tenemos "es verdadero" a la mano.
 
-A primera vista parece que esto echa por tierra lo que dije relativo a los hechos y a las proposiciones.
-Si nunca son perfectamente acertadas las oraciones que usamos para hablar de las "cosas" que hay fuera de nuestra cabeza, entonces ¿Para que necesitamos a las proposiciones para individuar hechos?
+A primera vista, esto parece echar por tierra lo que dije relativo a los hechos y a las proposiciones.
+Si nunca son perfectamente acertadas las oraciones que usamos para hablar de las "cosas" que hay fuera de nuestra cabeza, entonces ¿para que necesitamos a las proposiciones para individuar hechos?
 Esto se parece al argumento de Frege: la verdad no puede ser correspondencia porque la correspondencia admite grados, la verdad no.
 Algo sólo puede representar en cierto grado otra cosa, y sólo podemos representar a menos que los objetos que están relacionados (un objeto $A$ representando a un objeto $B$) sean cualitativamente idénticos, pero "la verdad no admite grados" [Frege2016, pp. 323-327].
 
-Frege también señala que aquello de lo que se presenta la cuestión sobre la verdad son los pensamientos.
-Me parece que esta aclaración es fundamental para esclarecer mi cuestión actual: la tensión entre la verdad[^21] de las proposiciones y la falla representacional de nuestras oraciones.
-Estoy de acuerdo tanto con Wittgenstein como con Austinq, concuerdo con que hay hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que son estos hechos hacen verdaderas a las proposiciones en el sentido de Wittgenstein.
+Me parece que esta aclaración es fundamental para esclarecer mi cuestión actual: la tensión entre la verdad de las proposiciones y la falla representacional de nuestras oraciones.
+Estoy de acuerdo tanto con Wittgenstein como con Austin.
+Con Wittgenstein concuerdo en que hay hechos que no dependen de nuestras creencias --incluso de nuestra forma de describirlos lingüísticamente-- y que son estos hechos los que hacen verdaderas a las proposiciones en el sentido de Wittgenstein.
 
-Como he señalado en esta sección, el contenido de las oraciones son proposiciones.
-Las proposiciones nos permiten explicar una plétora de fenómenos lingüísticos.
-Esto no es incompatible con nuestra falla expresiva humana, nuestras oraciones no siempre son perfectamente adecuadas como medios representacionales.
+Como he señalado en esta sección, el contenido de las oraciones son proposiciones y las proposiciones nos permiten explicar una plétora de fenómenos intuitivos.
+Pero creo que esto no es incompatible con nuestra falla expresiva humana, nuestras oraciones no siempre son perfectamente adecuadas como medios representacionales.
 Somos organismos con limitaciones cognitivas como para afirmar que nuestras representaciones siempre van a ser perfectamente acertadas, ¡Pero no tienen por qué serlo!
 Tenemos muchas maneras, como nos dice Austin, para decir qué tan adecuada es una representación y dichas representaciones van a perder ciertos detalles de los hechos, de manera que nos alejan del objetivo a representar.
-PEro esto es algo con lo que debemos vivir como seres humanos.
+Pero esto es algo con lo que debemos vivir como seres humanos.
 
-La teoría correspondentista es altamente intuitiva, especialmente porque lo que sea que haga a nuestras oraciones verdaderas (o más o menos acertadas) no es algo que dependa de nosotros.
-Pero hay ciertas cuestiones epistémicas relacionadas a qué tan bien o mal somos capaces de describir los hechos con nuestras oraciones.
-Dejemos que la teoría correspondentista se ocupe de la verdad de proposiciones, pero es una cuestión a parte cómo vamos a ser capaces de describir a los hechos
-Si además aceptamos que hay hechos causales, nuestra manera de describirlos será limitada.
+También dije que la teoría correspondentista es altamente intuitiva, especialmente porque lo que sea que haga a nuestras oraciones verdaderas (o más o menos acertadas) no es algo que dependa de nosotros.
+Pero hay ciertas cuestiones epistémicas relacionadas a qué tan buenos o malos somos para describir los hechos con nuestras oraciones u otras marcas proposicionales.
+Dejemos que la teoría correspondentista se ocupe de la verdad de proposiciones, pero es una cuestión a parte cómo vamos a ser capaces de representarnos a los hechos.
 
-Es costoso investigar, justificar y luego señalar que una oración es acertada y la cuestión de la representación de los hechos, más que una cuestión semántica, es una cuestión epistémica: estrechamente vinculada a cómo investigamos y justificamos hipótesis.
+Es costoso investigar, justificar y, después de un proceso, señalar que una oración es acertada.
+La cuestión de la representación de los hechos, más que una cuestión semántica, es una cuestión epistémica: estrechamente vinculada a cómo investigamos y justificamos hipótesis.
 Una teoría de la causalidad que admite __variables__ como _relata_ ilustra muy bien esta dificultad.
-Queremos oraciones verdaderas, porque queremos conocimiento, aunque muchas veces fallamos en asequir los hechos: necesitamos una manera sustanciosa para justificar cómo exactamente una oración corresponde con los hechos y para ello hay que adentrarnos en terreno epistémico
+
 
 ### Variables {#sec:varia}
 
+Queremos oraciones verdaderas, porque queremos conocimiento.
+Aunque muchas veces fallamos en asequir los hechos: necesitamos una manera sustanciosa de justificar cómo exactamente una oración corresponde con los hechos.
+Para ello hay que adentrarnos en terreno epistémico
+
 Digamos que queremos saber si una hipótesis es verdadera.
-Asumamos que 
+Asumamos que la hipótesis es "todos los cuervos son negros"
 
 
 
-I think, conversely. It is not our business here to discuss  probability: but is worth observing that the phrases "It is true that" and  "It is probable that" are in the same line of business,26 and in so far  incompatibles.   
-Entre estos diferentes razonamientos, podemos incluir las variables sobre las que razonamos, dando lugar al tema del siguiente apartado.
-
-
-Las variables pueden tomar diferentes información acotada a dominios.
-
-
-
-<!--- Pero esto parece volverse inconcistente con la relación causal. Si las proposiciones son entidades abstractas y las entidades abstractas no pueden interactuar causalmente, entonces hemos perdido la relación causal.  --->
-
-Sin embargo, esta no es la única manera en que los filósofos han tratado la naturaleza de los **hechos**.
-Otros filósofos han señalado que los hechos no son diferentes a las oraciones verdaderas.
-En su discusión acerca de la verdad. Jl austin señala que las oraciones afirman, no acerca de lo que son.
-En este caso, las oraciones son entidades concretas que establecen hechos
-
-
-
-
-
-Hay que notar que la proposición es aquello que representa un hecho.
-Es sensato pensar que cada hecho tiene una proposición asignada y que la totalidad de los hechos excluye a las proposiciones que son falsas.
-
-<!--- Pero esto parece volverse inconcistente con la relación causal. Si las proposiciones son entidades abstractas y las entidades abstractas no pueden interactuar causalmente, entonces hemos perdido la relación causal.  --->
-
-Sin embargo, esta no es la única manera en que los filósofos han tratado la naturaleza de los **hechos**.
-Otros filósofos han señalado que los hechos no son diferentes a las oraciones verdaderas.
-En su discusión acerca de la verdad. Jl austin señala que las oraciones afirman, no acerca de lo que son.
-En este caso, las oraciones son entidades concretas que establecen hechos
-
-
-
-
-
-Hay que notar que la proposición es aquello que representa un hecho.
-
-
-
-
-
-
-
-Mellor señala que no es una buena caracterización hablar de particulares, porque no puede ser iterada. 
-Pero si la relación causal se da entre _hechos_ entonces hay una oración que describe el hecho de que A causa B
-Second, there may indeed be no one criterion of identity for all the  diverse facts that causation links. But why should there be? Consider the  diversity of particular things, ranging from quarks, through molecules,  cells, organisms, mountains and planets, to galaxies. Why must there be a  single identity criterion for things of all these kinds: why may not each  kind have its own? If it does, surely no one will take that fact to disprove  the existence of particular things. But why then should the lack of a single  identity criterion for all facts cast wholesale doubt on their existence? Pues porque está vinculado a cómo explicamos fenómenos. Si no hay un criterio de identificación de hechos, entonces podemos vincular cualquier hecho con otro, que están en conexión constante, pero ya vimos que esto no es suficiente.
-
-
-If, on the other hand, the causes and effects here are facts, (1) and (1-)  can easily both be causal.[p. 134]
-
-Todos los hechos son causados por todos los hechos (slingshot para hechos)
-
-
-
-El operador because. A ver Mellor, si esto es lo único que relaciona causas, hay casos "because" que no funcionan de esta manera.
-
-
-<!--- Pero esto parece volverse inconcistente con la relación causal. Si las proposiciones son entidades abstractas y las entidades abstractas no pueden interactuar causalmente, entonces hemos perdido la relación causal.  --->
-
-Sin embargo, esta no es la única manera en que los filósofos han tratado la naturaleza de los **hechos**.
-Otros filósofos han señalado que los hechos no son diferentes a las oraciones verdaderas.
-En su discusión acerca de la verdad. Jl austin señala que las oraciones afirman, no acerca de lo que son.
-En este caso, las oraciones son entidades concretas que establecen hechos
-
-
-
-
-
-Hay que notar que la proposición es aquello que representa un hecho.
-Esto significa que la proposición y un hecho tienen la misma estructura.
-Siguiendo esta línea de razonamiento, las proposiciones no son hechos, sino que las proposiciones son verdaderas en virtud de que representen correctamente los hechos.
-
-
-
-
-Los hechos están relacionados con las proposiciones. 
-
-
-
-No puedo incluir todos los debates, pero hay al menos una distinción importante acerca de la naturaleza de los hechos.
-
-
-
-
-
-# Notas para agregar
-
-Por ahora no es necesario entrar en detalles acerca de la sem{antica de la verdad.
-Pero no es necesario entrar en esos detalles para señalar cómo resolver la tensión anterior.
- gustar{ia mencionar cómo esto Lo que sí puedo decir al respecto es que puedo intentar disipar la tensión anterior discutir es que el mundo es bastante complejo.
-
-no puedo discutir, a menos que querramos involucrarnos en la semántica de la verdad, lo cuál no es nuestro tema actual
-
-2. Terminar la sección "eventos", porque parece que queda al aire.
-
-Dada la generalidad de esta relación, podemos decir que los eventos-_type_ "presionar el botón" y "prender el televisor" están en conjunción constante cuando presiono el botón de mi televisor y se enciende un televisor en Taiwán.
-Algo que claramente queremos evitar.
-Podríamos restringir este tipo de eventos, diciendo que presionar el botón de el televisor hace que ese televisor se encienda.
-Paro nuestras relaciones causales, muchas veces, relacionan dos objetos, por lo que esto hace que la relación sea demasiado restringida.
-
-Algunos
-
+# Referencias
 
 [^2n]: Cabe señalar que esto último depende de que lo que algunos filósofos han señalado: no es posible que dos eventos ocurran en el mismo lugar y al mismo tiempo. Al menos esto sugiere Quine en [-@quine1985] cuando dice que podemos individuar los eventos como constructos de objetos físicos y que los objetos físico están individuados por su extensión espacial.
 
@@ -593,7 +506,7 @@ Algunos
 
 [^16]: Una breve aclaración. En en filosofía de la biología se debate si lo que evoluciona son los organismos o las poblaciones. Como estamos altamente influenciados por la genética de poblaciones, los biólogos asumen --generalmente-- que lo que evoluciona son las poblaciones. 
 
-[^17]: En el original "The world is the sum total of all facts, not all things"
+[^17]: En el original "The world is the sum total of all facts, not all things."
 
 [^18]: En el original "everything that is part of the projection is part of the proposition, but what is projected is _not_ part of the proposition." Énfasis en el original. 
 
@@ -601,13 +514,13 @@ Algunos
 
 [^20]: Las interpretaciones realistas acerca de los hechos asumen esto. Sin embargo, no todos están de acuerdo. Por ejemplo, algunos filosófos de la ciencia, argumentan que nuestras descripciones de los fenómenos científicos están teóricamente cargadas [@Hanson1958-HANPOD]. Si nuestras descripciones están teóricamente cargadass, entonces no son completamente independientes de nuestros estados mentales.
 
-[^8]: Hay varias teorías de lo que es una proposición. Aquí tomo una ruta clásica. El lector interesado puede leer la entrada "Propositions" [citar la stanford]
+[^8]: Hay varias teorías de lo que es una proposición. Aquí tomo una ruta clásica. El lector interesado puede leer la entrada "Propositions" [@sep-propositions]
 
-[^9]: Para una revisión más detallada de las teorías del significado
+[^9n]: Para una revisión más detallada de las teorías del significado
 proposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
 
 
-[^10]: Confronté mi lectura de Wittgenstein con la gran exposición que hace Potter [citar libro de Potter]. Me parece que estamos de acuerdo en la interpretación. Me gustaría afirmar que, por tanto, es correcta. Sin embargo, las interpretaciones de Wittgenstein son variadas. 
+[^10n]: Confronté mi lectura de Wittgenstein con la exposición que hace Potter [-@Potter2019-POTEAP]. Me parece que estamos de acuerdo en la interpretación. Me gustaría afirmar que, por tanto, es correcta. 
 
 [^11]: No todos los filósofos están de acuerdo con este argumento. Si bien, es plausible pensar que no hay tal cosa como eventos negativos, algunos señalan que pueden ofrecer una caracterización de los eventos que no tenga este problema. Para más detalles, refiero al lector a [@Ehring2009]
 
@@ -617,15 +530,11 @@ proposicional, refiero al lector a [citar el libro de Lycan, capítulo 5]
 [^13]: En el original "First, even if some such criterion is needed, I need not supply it. I have  said already that the causation reported by a true 'E because C' can link  whatever makes 'C' and 'E' true. In other words, our theory of causation can help itself to whatever the right theory of truth uses to account for the  truth of 'C' and 'E'."  
 
 
-[^14]: Por utilizar términos técnicos, los hechos son "hacedores-de-verdad", mientras que las proposiciones son "portadores-de-verdad"[@Asay2023-ASATPA, citar el libro truthmaking]. Esta terminología es utilizada por los teóricos de la **verdad**, particularmente aquellos que defienden algún tipo de teoría correspondentista.
+[^14n]: Por utilizar términos técnicos, los hechos son "hacedores-de-verdad", mientras que las proposiciones son "portadores-de-verdad" [@Asay2023-ASATPA]. Esta terminología es utilizada por los teóricos de la verdad, particularmente aquellos que defienden algún tipo de teoría correspondentista.
 
-[^15]: Austin en este artículo está ofreciendo argumentos en contra de la existencia de proposiciones, pero creo que podemos usar uno de los argumentos contra las proposiciones para establecer un punto que quiero discutir en la sección "Variables".
+[^15n]: Austin en este artículo está ofreciendo argumentos en contra de la existencia de proposiciones. Tiene un argumento para señalar por qué no tiene sentido hablar de proposiciones si las oraciones pueden hacer todo el trabajo y más. Pero uno de los argumentos contra las proposiciones que ofrece Austin, ofrece una base para establecer un punto que quiero discutir en la sección "Variables".
 
-[^16]: En el original "We say, for example, that  a certain statement is exaggerated or vague or bald, a description  somewhat rough or misleading or not very good, an account rather  general or too concise." 
-
-[^21]: No puedo discutir a detalle las diferentes teorías de la verdad, pero refiero al lector a 
-
-Esto es para hacer un commit
+[^16n]: En el original "We say, for example, that  a certain statement is exaggerated or vague or bald, a description  somewhat rough or misleading or not very good, an account rather  general or too concise." 
 
 [^2]: Es interesante la ccaracterización de Aristóteles en términos de preguntas "¿por qué?" Algunos filósofos han caracterizado a la explicación científica como la respuesta a preguntas "¿por qué?. Por ejemplo, Hempel en su famoso artículo "Aspects of scientific Explanation" dice "A scientific explanation may be regarded as an answer to a why-quetion [...]" [-@hempel1965, p. 334]
 
@@ -654,8 +563,8 @@ Esto es para hacer un commit
 [^14]: En el original "renderingt he causal relation ontologically incoherent."
 
 [^15]: En el original $[(a, b, T), P]$ is a cause of $[(b, T'), Q]$ provided: (i) $[(a, b, T)]$ and $[(b, T'), Q]$ exist, and (ii) $\forall x, \forall y, \forall t [(x, y, t), P]$ exists $\implies$ $[(y, t + \Delta t), Q] exists) [_sic._]$, where $\Delta t = T' - T$. [@kim1973, p. 234]. El último paréntesis después de "exists" está en el texto original. Aquí asumo que es una errata. 
-[^33]: Este segundo aspecto está estrechamente relacionado con la explicación científica, que es uno de los temas de estudio de la filosofía de la ciencia. Para una introducción a la filosofía de la ciencia, el lector puede revisar [@Rosenberg2000-ROSPOS-7]
 
+[^33]: Este segundo aspecto está estrechamente relacionado con la explicación científica, que es uno de los temas de estudio de la filosofía de la ciencia. Para una introducción a la filosofía de la ciencia, el lector puede revisar [@Rosenberg2000-ROSPOS-7]
 
 [^48]: No hablaré sobre si la causalidad es una relación, en qué consiste dicha relación y cuál es su aridad. Es un tema central en la metafísica de la causalidad, pero el espacio en este capítulo es reducido. El lector interesado puede consultar [@Mumford2013-MUMCAV]
 
